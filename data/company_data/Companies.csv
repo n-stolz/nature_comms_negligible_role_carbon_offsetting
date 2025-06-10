@@ -1,0 +1,63 @@
+Rank,Company Name,Country,Sector,CDP_ID,"Sales
+ ($millions)","Profits
+ ($millions)","Assets
+ ($millions)","Market Value 
+ As of 05/05/23 ($m)"
+2,Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,O&G,,$589'470,$156'360,$660'990,$2'055'220
+8,ExxonMobil,United States,O&G,,$393'160,$61'690,$369'370,$439'390
+11,Shell,United Kingdom,O&G,16012,$365'890,$43'510,$429'150,$205'450
+18,Chevron,United States,O&G,,$232'120,$35'780,$255'890,$303'540
+18,PetroChina,China,O&G,,$457'400,$22'180,$384'580,$122'910
+21,TotalEnergies,France,O&G,19257,$257'590,$21'120,$293'030,$151'640
+28,BP,United Kingdom,O&G,2083,$248'110,$25'890,$278'660,$108'300
+52,Sinopec,China,O&G,,$453'560,$9'850,$283'300,$114'320
+52,Equinor,Norway,O&G,23132,$141'920,$28'980,$152'490,$91'830
+58,Petrobras,Brazil,O&G,14654,$124'170,$36'470,$184'990,$63'030
+81,Eni,Italy,O&G,5634,$132'380,$13'120,$154'130,$49'970
+83,ConocoPhillips,United States,O&G,3751,$75'200,$15'840,$91'440,$121'450
+85,CNOOC,Hong Kong,O&G,,$59'080,$21'090,$133'640,$72'940
+117,Marathon Petroleum,United States,O&G,36606,$174'050,$16'390,$87'040,$45'360
+136,Phillips 66,United States,O&G,,$167'870,$12'390,$77'260,$42'880
+165,Valero Energy,United States,O&G,20048,$174'430,$13'640,$60'180,$38'700
+167,Occidental Petroleum,United States,O&G,13649,$36'250,$13'220,$74'760,$54'630
+195,Enbridge,Canada,O&G,5581,$37'690,$2'110,$130'840,$80'510
+215,Suncor Energy,Canada,O&G,17929,$44'920,$6'970,$62'450,$39'030
+218,Canadian Natural Resources,Canada,O&G,2667,$30'420,$7'280,$55'610,$63'250
+226,Oil & Natural Gas,India,O&G,,$86'060,$5'380,$77'270,$24'650
+238,PTT,Thailand,O&G,15297,$96'000,$2'610,$98'620,$25'600
+246,EOG Resources,United States,O&G,5767,$28'430,$9'390,$41'020,$66'770
+264,Schlumberger,United States,O&G,16418,$29'930,$3'870,$43'850,$65'210
+281,Cheniere Energy,United States,O&G,,$33'300,$7'730,$40'270,$36'000
+283,PKN Orlen,Poland,O&G,14774,$62'440,$7'940,$62'180,$17'600
+290,Repsol,Spain,O&G,15669,$76'120,$4'130,$65'310,$18'840
+309,Woodside Energy Group,Australia,O&G,,$16'970,$6'610,$59'320,$42'330
+311,Ecopetrol,Colombia,O&G,22341,$33'670,$7'850,$62'450,$18'760
+317,Pioneer Natural Resources,United States,O&G,14802,$22'830,$7'040,$36'110,$49'600
+320,Cenovus Energy,Canada,O&G,,$47'580,$4'130,$39'900,$30'300
+349,Kinder Morgan,United States,O&G,10150,$18'250,$2'550,$68'930,$38'190
+357,OMV Group,Austria,O&G,13870,$59'730,$3'620,$59'080,$15'170
+394,Koç Holding,Turkey,O&G,21135,$54'650,$4'480,$86'810,$9'850
+417,ENEOS Holdings,Japan,O&G,29901,$111'200,$2'290,$81'000,$10'110
+445,Devon Energy,United States,O&G,4678,$20'640,$5'960,$23'720,$32'940
+476,TC Energy,Canada,O&G,19304,$11'010,$1'280,$88'080,$41'630
+477,Williams,United States,O&G,20705,$10'900,$2'600,$48'940,$36'770
+510,Inpex,Japan,O&G,9134,$17'670,$3'330,$47'460,$14'370
+13,Toyota Motor,Japan,Automobile,19290,$270'490,$18'500,$542'500,$188'200
+29,Volkswagen Group,Germany,Automobile,20309,$293'470,$15'630,$633'780,$70'160
+42,Mercedes-Benz Group,Germany,Automobile,866803,$158'780,$15'550,$286'000,$78'490
+46,BMW Group,Germany,Automobile,1932,$154'250,$11'670,$268'980,$75'770
+61,Stellantis,Netherlands,Automobile,,$188'750,$17'660,$198'680,$49'840
+69,Tesla,United States,Automobile,,$86'030,$11'790,$86'830,$539'000
+70,General Motors,United States,Automobile,7164,$160'740,$9'390,$267'000,$46'230
+75,Mitsubishi,Japan,Automobile,12263,$161'020,$9'490,$171'080,$53'500
+104,Hyundai Motor,South Korea,Automobile,8708,$114'550,$7'020,$203'070,$38'940
+109,Honda Motor,Japan,Automobile,8566,$124'680,$5'380,$182'970,$44'940
+124,Ford Motor,United States,Automobile,6595,$165'060,$2'890,$256'800,$47'790
+170,BYD,China,Automobile,,$68'060,$2'890,$79'610,$87'010
+230,Volvo Group,Sweden,Automobile,840836,$48'070,$3'710,$63'110,$41'030
+256,KIA,South Korea,Automobile,10076,$70'170,$4'960,$58'290,$26'040
+258,SAIC Motor,China,Automobile,,$102'500,$1'950,$137'970,$23'040
+424,Nissan Motor,Japan,Automobile,13363,$74'280,$983,$128'500,$14'520
+521,Suzuki Motor,Japan,Automobile,18074,$33'510,$1'580,$33'170,$17'220
+725,Tata Motors,India,Automobile,18285,$40'500,-$512,$38'800,$22'490
+737,Renault,France,Automobile,15634,$48'760,-$355,$126'280,$10'450

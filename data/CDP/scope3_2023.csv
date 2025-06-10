@@ -1,0 +1,1531 @@
+,Account number,Organization,Row,RowName,evaluation_status,scope3_emissions
+935,427,Air Canada,1,Purchased goods and services,"Relevant, calculated",1007649.944
+936,427,Air Canada,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+937,427,Air Canada,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, not yet calculated",Question not applicable
+938,427,Air Canada,4,Upstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+939,427,Air Canada,5,Waste generated in operations,"Relevant, not yet calculated",Question not applicable
+940,427,Air Canada,6,Business travel,"Relevant, not yet calculated",Question not applicable
+941,427,Air Canada,7,Employee commuting,"Relevant, not yet calculated",Question not applicable
+942,427,Air Canada,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+943,427,Air Canada,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+944,427,Air Canada,10,Processing of sold products,"Relevant, not yet calculated",Question not applicable
+945,427,Air Canada,11,Use of sold products,"Relevant, not yet calculated",Question not applicable
+946,427,Air Canada,12,End of life treatment of sold products,"Relevant, not yet calculated",Question not applicable
+947,427,Air Canada,13,Downstream leased assets,"Relevant, calculated",5009
+948,427,Air Canada,14,Franchises,"Not relevant, explanation provided",Question not applicable
+949,427,Air Canada,15,Investments,"Relevant, not yet calculated",Question not applicable
+950,427,Air Canada,16,Other (upstream),,Question not applicable
+951,427,Air Canada,17,Other (downstream),,Question not applicable
+952,429,Air France - KLM,1,Purchased goods and services,"Relevant, calculated",1376889
+953,429,Air France - KLM,2,Capital goods,"Relevant, calculated",1695523
+954,429,Air France - KLM,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",5746000
+955,429,Air France - KLM,4,Upstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+956,429,Air France - KLM,5,Waste generated in operations,"Relevant, not yet calculated",Question not applicable
+957,429,Air France - KLM,6,Business travel,"Relevant, not yet calculated",Question not applicable
+958,429,Air France - KLM,7,Employee commuting,"Relevant, not yet calculated",Question not applicable
+959,429,Air France - KLM,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+960,429,Air France - KLM,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+961,429,Air France - KLM,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+962,429,Air France - KLM,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+963,429,Air France - KLM,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+964,429,Air France - KLM,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+965,429,Air France - KLM,14,Franchises,"Not relevant, explanation provided",Question not applicable
+966,429,Air France - KLM,15,Investments,"Relevant, not yet calculated",Question not applicable
+967,429,Air France - KLM,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+968,429,Air France - KLM,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+1190,550,ANA Holdings Inc.,1,Purchased goods and services,"Relevant, calculated",548792
+1191,550,ANA Holdings Inc.,2,Capital goods,"Relevant, calculated",327228
+1192,550,ANA Holdings Inc.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",1038052
+1193,550,ANA Holdings Inc.,4,Upstream transportation and distribution,"Relevant, calculated",1101
+1194,550,ANA Holdings Inc.,5,Waste generated in operations,"Relevant, calculated",17284
+1195,550,ANA Holdings Inc.,6,Business travel,"Relevant, calculated",2261
+1196,550,ANA Holdings Inc.,7,Employee commuting,"Relevant, calculated",8910
+1197,550,ANA Holdings Inc.,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+1198,550,ANA Holdings Inc.,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+1199,550,ANA Holdings Inc.,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+1200,550,ANA Holdings Inc.,11,Use of sold products,"Relevant, calculated",0
+1201,550,ANA Holdings Inc.,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+1202,550,ANA Holdings Inc.,13,Downstream leased assets,"Relevant, calculated",55605
+1203,550,ANA Holdings Inc.,14,Franchises,"Not relevant, explanation provided",Question not applicable
+1204,550,ANA Holdings Inc.,15,Investments,"Not relevant, explanation provided",Question not applicable
+1205,550,ANA Holdings Inc.,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+1206,550,ANA Holdings Inc.,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+1496,660,American Airlines Group Inc,1,Purchased goods and services,"Relevant, calculated",1856329
+1497,660,American Airlines Group Inc,2,Capital goods,"Relevant, calculated",302977
+1498,660,American Airlines Group Inc,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",7350276
+1499,660,American Airlines Group Inc,4,Upstream transportation and distribution,"Relevant, calculated",3477988
+1500,660,American Airlines Group Inc,5,Waste generated in operations,"Relevant, calculated",1845
+1501,660,American Airlines Group Inc,6,Business travel,"Relevant, calculated",94128
+1502,660,American Airlines Group Inc,7,Employee commuting,"Relevant, calculated",232349
+1503,660,American Airlines Group Inc,8,Upstream leased assets,"Relevant, calculated",22323
+1504,660,American Airlines Group Inc,9,Downstream transportation and distribution,"Relevant, calculated",17779
+1505,660,American Airlines Group Inc,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+1506,660,American Airlines Group Inc,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+1507,660,American Airlines Group Inc,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+1508,660,American Airlines Group Inc,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+1509,660,American Airlines Group Inc,14,Franchises,"Not relevant, explanation provided",Question not applicable
+1510,660,American Airlines Group Inc,15,Investments,"Relevant, calculated",411742
+1511,660,American Airlines Group Inc,16,Other (upstream),Not evaluated,Question not applicable
+1512,660,American Airlines Group Inc,17,Other (downstream),Not evaluated,Question not applicable
+3825,1800,Bharat Petroleum Corporation,1,Purchased goods and services,"Not relevant, explanation provided",Question not applicable
+3826,1800,Bharat Petroleum Corporation,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+3827,1800,Bharat Petroleum Corporation,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+3828,1800,Bharat Petroleum Corporation,4,Upstream transportation and distribution,"Not relevant, calculated",314220
+3829,1800,Bharat Petroleum Corporation,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+3830,1800,Bharat Petroleum Corporation,6,Business travel,"Not relevant, calculated",1210
+3831,1800,Bharat Petroleum Corporation,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+3832,1800,Bharat Petroleum Corporation,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+3833,1800,Bharat Petroleum Corporation,9,Downstream transportation and distribution,"Not relevant, calculated",536000
+3834,1800,Bharat Petroleum Corporation,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+3835,1800,Bharat Petroleum Corporation,11,Use of sold products,"Relevant, not yet calculated",Question not applicable
+3836,1800,Bharat Petroleum Corporation,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+3837,1800,Bharat Petroleum Corporation,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+3838,1800,Bharat Petroleum Corporation,14,Franchises,"Not relevant, explanation provided",Question not applicable
+3839,1800,Bharat Petroleum Corporation,15,Investments,"Not relevant, explanation provided",Question not applicable
+3840,1800,Bharat Petroleum Corporation,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+3841,1800,Bharat Petroleum Corporation,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+4046,1932,BMW AG,1,Purchased goods and services,"Relevant, calculated",19758702
+4047,1932,BMW AG,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+4048,1932,BMW AG,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+4049,1932,BMW AG,4,Upstream transportation and distribution,"Relevant, calculated",2274178
+4050,1932,BMW AG,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+4051,1932,BMW AG,6,Business travel,"Relevant, calculated",66170
+4052,1932,BMW AG,7,Employee commuting,"Relevant, calculated",145284
+4053,1932,BMW AG,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+4054,1932,BMW AG,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+4055,1932,BMW AG,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+4056,1932,BMW AG,11,Use of sold products,"Relevant, calculated",92947849
+4057,1932,BMW AG,12,End of life treatment of sold products,"Relevant, calculated",1394603
+4058,1932,BMW AG,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+4059,1932,BMW AG,14,Franchises,"Not relevant, explanation provided",Question not applicable
+4060,1932,BMW AG,15,Investments,"Not relevant, explanation provided",Question not applicable
+4061,1932,BMW AG,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+4062,1932,BMW AG,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+4199,2083,BP,1,Purchased goods and services,,Question not applicable
+4200,2083,BP,2,Capital goods,,Question not applicable
+4201,2083,BP,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),,Question not applicable
+4202,2083,BP,4,Upstream transportation and distribution,,Question not applicable
+4203,2083,BP,5,Waste generated in operations,,Question not applicable
+4204,2083,BP,6,Business travel,,Question not applicable
+4205,2083,BP,7,Employee commuting,,Question not applicable
+4206,2083,BP,8,Upstream leased assets,,Question not applicable
+4207,2083,BP,9,Downstream transportation and distribution,,Question not applicable
+4208,2083,BP,10,Processing of sold products,,Question not applicable
+4209,2083,BP,11,Use of sold products,"Relevant, calculated",306700000
+4210,2083,BP,12,End of life treatment of sold products,,Question not applicable
+4211,2083,BP,13,Downstream leased assets,,Question not applicable
+4212,2083,BP,14,Franchises,,Question not applicable
+4213,2083,BP,15,Investments,,Question not applicable
+4214,2083,BP,16,Other (upstream),,Question not applicable
+4215,2083,BP,17,Other (downstream),,Question not applicable
+4862,2667,Canadian Natural Resources Limited,1,Purchased goods and services,Not evaluated,Question not applicable
+4863,2667,Canadian Natural Resources Limited,2,Capital goods,Not evaluated,Question not applicable
+4864,2667,Canadian Natural Resources Limited,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),Not evaluated,Question not applicable
+4865,2667,Canadian Natural Resources Limited,4,Upstream transportation and distribution,Not evaluated,Question not applicable
+4866,2667,Canadian Natural Resources Limited,5,Waste generated in operations,Not evaluated,Question not applicable
+4867,2667,Canadian Natural Resources Limited,6,Business travel,Not evaluated,Question not applicable
+4868,2667,Canadian Natural Resources Limited,7,Employee commuting,Not evaluated,Question not applicable
+4869,2667,Canadian Natural Resources Limited,8,Upstream leased assets,Not evaluated,Question not applicable
+4870,2667,Canadian Natural Resources Limited,9,Downstream transportation and distribution,Not evaluated,Question not applicable
+4871,2667,Canadian Natural Resources Limited,10,Processing of sold products,Not evaluated,Question not applicable
+4872,2667,Canadian Natural Resources Limited,11,Use of sold products,"Relevant, calculated",124113645
+4873,2667,Canadian Natural Resources Limited,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+4874,2667,Canadian Natural Resources Limited,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+4875,2667,Canadian Natural Resources Limited,14,Franchises,"Not relevant, explanation provided",Question not applicable
+4876,2667,Canadian Natural Resources Limited,15,Investments,Not evaluated,Question not applicable
+4877,2667,Canadian Natural Resources Limited,16,Other (upstream),Not evaluated,Question not applicable
+4878,2667,Canadian Natural Resources Limited,17,Other (downstream),Not evaluated,Question not applicable
+5287,2926,Cathay Pacific Airways Limited,1,Purchased goods and services,"Relevant, calculated",330000
+5288,2926,Cathay Pacific Airways Limited,2,Capital goods,"Relevant, calculated",297000
+5289,2926,Cathay Pacific Airways Limited,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",1133000
+5290,2926,Cathay Pacific Airways Limited,4,Upstream transportation and distribution,"Relevant, calculated",171000
+5291,2926,Cathay Pacific Airways Limited,5,Waste generated in operations,"Relevant, calculated",4000
+5292,2926,Cathay Pacific Airways Limited,6,Business travel,"Relevant, calculated",8000
+5293,2926,Cathay Pacific Airways Limited,7,Employee commuting,"Relevant, calculated",6000
+5294,2926,Cathay Pacific Airways Limited,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+5295,2926,Cathay Pacific Airways Limited,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+5296,2926,Cathay Pacific Airways Limited,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+5297,2926,Cathay Pacific Airways Limited,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+5298,2926,Cathay Pacific Airways Limited,12,End of life treatment of sold products,"Relevant, calculated",3
+5299,2926,Cathay Pacific Airways Limited,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+5300,2926,Cathay Pacific Airways Limited,14,Franchises,"Not relevant, explanation provided",Question not applicable
+5301,2926,Cathay Pacific Airways Limited,15,Investments,"Relevant, calculated",3256000
+5302,2926,Cathay Pacific Airways Limited,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+5303,2926,Cathay Pacific Airways Limited,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+6681,3751,ConocoPhillips,1,Purchased goods and services,"Relevant, not yet calculated",Question not applicable
+6682,3751,ConocoPhillips,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+6683,3751,ConocoPhillips,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+6684,3751,ConocoPhillips,4,Upstream transportation and distribution,"Relevant, calculated",5000000
+6685,3751,ConocoPhillips,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+6686,3751,ConocoPhillips,6,Business travel,"Not relevant, explanation provided",Question not applicable
+6687,3751,ConocoPhillips,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+6688,3751,ConocoPhillips,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+6689,3751,ConocoPhillips,9,Downstream transportation and distribution,"Relevant, calculated",8000000
+6690,3751,ConocoPhillips,10,Processing of sold products,"Relevant, calculated",14000000
+6691,3751,ConocoPhillips,11,Use of sold products,"Relevant, calculated",208000000
+6692,3751,ConocoPhillips,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+6693,3751,ConocoPhillips,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+6694,3751,ConocoPhillips,14,Franchises,"Not relevant, explanation provided",Question not applicable
+6695,3751,ConocoPhillips,15,Investments,"Not relevant, explanation provided",Question not applicable
+6696,3751,ConocoPhillips,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+6697,3751,ConocoPhillips,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+6834,3889,"Cosmo Energy Holdings Co., Ltd.",1,Purchased goods and services,"Relevant, calculated",1149677
+6835,3889,"Cosmo Energy Holdings Co., Ltd.",2,Capital goods,"Not relevant, explanation provided",Question not applicable
+6836,3889,"Cosmo Energy Holdings Co., Ltd.",3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+6837,3889,"Cosmo Energy Holdings Co., Ltd.",4,Upstream transportation and distribution,"Relevant, calculated",652832
+6838,3889,"Cosmo Energy Holdings Co., Ltd.",5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+6839,3889,"Cosmo Energy Holdings Co., Ltd.",6,Business travel,"Not relevant, explanation provided",Question not applicable
+6840,3889,"Cosmo Energy Holdings Co., Ltd.",7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+6841,3889,"Cosmo Energy Holdings Co., Ltd.",8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+6842,3889,"Cosmo Energy Holdings Co., Ltd.",9,Downstream transportation and distribution,"Relevant, calculated",187020
+6843,3889,"Cosmo Energy Holdings Co., Ltd.",10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+6844,3889,"Cosmo Energy Holdings Co., Ltd.",11,Use of sold products,"Relevant, calculated",50962663
+6845,3889,"Cosmo Energy Holdings Co., Ltd.",12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+6846,3889,"Cosmo Energy Holdings Co., Ltd.",13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+6847,3889,"Cosmo Energy Holdings Co., Ltd.",14,Franchises,"Not relevant, explanation provided",Question not applicable
+6848,3889,"Cosmo Energy Holdings Co., Ltd.",15,Investments,"Not relevant, explanation provided",Question not applicable
+6849,3889,"Cosmo Energy Holdings Co., Ltd.",16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+6850,3889,"Cosmo Energy Holdings Co., Ltd.",17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+7786,4408,Delta Air Lines,1,Purchased goods and services,"Relevant, calculated",1514455
+7787,4408,Delta Air Lines,2,Capital goods,"Relevant, calculated",1395376
+7788,4408,Delta Air Lines,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",8453650
+7789,4408,Delta Air Lines,4,Upstream transportation and distribution,"Relevant, calculated",938765
+7790,4408,Delta Air Lines,5,Waste generated in operations,"Relevant, not yet calculated",Question not applicable
+7791,4408,Delta Air Lines,6,Business travel,"Relevant, not yet calculated",Question not applicable
+7792,4408,Delta Air Lines,7,Employee commuting,"Relevant, not yet calculated",Question not applicable
+7793,4408,Delta Air Lines,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+7794,4408,Delta Air Lines,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+7795,4408,Delta Air Lines,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+7796,4408,Delta Air Lines,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+7797,4408,Delta Air Lines,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+7798,4408,Delta Air Lines,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+7799,4408,Delta Air Lines,14,Franchises,"Not relevant, explanation provided",Question not applicable
+7800,4408,Delta Air Lines,15,Investments,"Relevant, not yet calculated",Question not applicable
+7801,4408,Delta Air Lines,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+7802,4408,Delta Air Lines,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+7990,4657,Deutsche Lufthansa AG,1,Purchased goods and services,"Relevant, calculated",9196
+7991,4657,Deutsche Lufthansa AG,2,Capital goods,"Relevant, calculated",240467
+7992,4657,Deutsche Lufthansa AG,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",5192640
+7993,4657,Deutsche Lufthansa AG,4,Upstream transportation and distribution,"Relevant, calculated",1074818
+7994,4657,Deutsche Lufthansa AG,5,Waste generated in operations,"Relevant, calculated",40499
+7995,4657,Deutsche Lufthansa AG,6,Business travel,"Relevant, calculated",40902
+7996,4657,Deutsche Lufthansa AG,7,Employee commuting,"Relevant, calculated",42847
+7997,4657,Deutsche Lufthansa AG,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+7998,4657,Deutsche Lufthansa AG,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+7999,4657,Deutsche Lufthansa AG,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+8000,4657,Deutsche Lufthansa AG,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+8001,4657,Deutsche Lufthansa AG,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+8002,4657,Deutsche Lufthansa AG,13,Downstream leased assets,"Relevant, calculated",526538
+8003,4657,Deutsche Lufthansa AG,14,Franchises,"Not relevant, explanation provided",Question not applicable
+8004,4657,Deutsche Lufthansa AG,15,Investments,"Relevant, calculated",1787198
+8005,4657,Deutsche Lufthansa AG,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+8006,4657,Deutsche Lufthansa AG,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+8041,4678,Devon Energy Corporation,1,Purchased goods and services,"Not relevant, explanation provided",Question not applicable
+8042,4678,Devon Energy Corporation,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+8043,4678,Devon Energy Corporation,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+8044,4678,Devon Energy Corporation,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+8045,4678,Devon Energy Corporation,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+8046,4678,Devon Energy Corporation,6,Business travel,"Not relevant, explanation provided",Question not applicable
+8047,4678,Devon Energy Corporation,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+8048,4678,Devon Energy Corporation,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+8049,4678,Devon Energy Corporation,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+8050,4678,Devon Energy Corporation,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+8051,4678,Devon Energy Corporation,11,Use of sold products,"Relevant, calculated",90000000
+8052,4678,Devon Energy Corporation,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+8053,4678,Devon Energy Corporation,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+8054,4678,Devon Energy Corporation,14,Franchises,"Not relevant, explanation provided",Question not applicable
+8055,4678,Devon Energy Corporation,15,Investments,"Not relevant, explanation provided",Question not applicable
+8056,4678,Devon Energy Corporation,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+8057,4678,Devon Energy Corporation,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+8415,5021,DTE Energy Company,1,Purchased goods and services,"Relevant, calculated",297000
+8416,5021,DTE Energy Company,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+8417,5021,DTE Energy Company,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",3699000
+8418,5021,DTE Energy Company,4,Upstream transportation and distribution,"Relevant, calculated",233000
+8419,5021,DTE Energy Company,5,Waste generated in operations,"Relevant, not yet calculated",Question not applicable
+8420,5021,DTE Energy Company,6,Business travel,"Relevant, not yet calculated",Question not applicable
+8421,5021,DTE Energy Company,7,Employee commuting,"Relevant, not yet calculated",Question not applicable
+8422,5021,DTE Energy Company,8,Upstream leased assets,"Relevant, not yet calculated",Question not applicable
+8423,5021,DTE Energy Company,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+8424,5021,DTE Energy Company,10,Processing of sold products,"Relevant, not yet calculated",Question not applicable
+8425,5021,DTE Energy Company,11,Use of sold products,"Relevant, calculated",8869000
+8426,5021,DTE Energy Company,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+8427,5021,DTE Energy Company,13,Downstream leased assets,,Question not applicable
+8428,5021,DTE Energy Company,14,Franchises,,Question not applicable
+8429,5021,DTE Energy Company,15,Investments,,Question not applicable
+8430,5021,DTE Energy Company,16,Other (upstream),,Question not applicable
+8431,5021,DTE Energy Company,17,Other (downstream),,Question not applicable
+8619,5170,easyJet,1,Purchased goods and services,"Relevant, calculated",282236
+8620,5170,easyJet,2,Capital goods,"Relevant, calculated",47559
+8621,5170,easyJet,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",1319842
+8622,5170,easyJet,4,Upstream transportation and distribution,"Relevant, calculated",217
+8623,5170,easyJet,5,Waste generated in operations,"Relevant, calculated",40
+8624,5170,easyJet,6,Business travel,"Relevant, calculated",742
+8625,5170,easyJet,7,Employee commuting,"Relevant, calculated",5682
+8626,5170,easyJet,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+8627,5170,easyJet,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+8628,5170,easyJet,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+8629,5170,easyJet,11,Use of sold products,"Relevant, calculated",1252
+8630,5170,easyJet,12,End of life treatment of sold products,"Relevant, calculated",75
+8631,5170,easyJet,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+8632,5170,easyJet,14,Franchises,"Not relevant, explanation provided",Question not applicable
+8633,5170,easyJet,15,Investments,"Relevant, calculated",2867
+8634,5170,easyJet,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+8635,5170,easyJet,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+9129,5581,Enbridge Inc.,1,Purchased goods and services,"Relevant, not yet calculated",Question not applicable
+9130,5581,Enbridge Inc.,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+9131,5581,Enbridge Inc.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",297000
+9132,5581,Enbridge Inc.,4,Upstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+9133,5581,Enbridge Inc.,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+9134,5581,Enbridge Inc.,6,Business travel,"Relevant, calculated",3600
+9135,5581,Enbridge Inc.,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+9136,5581,Enbridge Inc.,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+9137,5581,Enbridge Inc.,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+9138,5581,Enbridge Inc.,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+9139,5581,Enbridge Inc.,11,Use of sold products,"Relevant, calculated",53800000
+9140,5581,Enbridge Inc.,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+9141,5581,Enbridge Inc.,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+9142,5581,Enbridge Inc.,14,Franchises,"Not relevant, explanation provided",Question not applicable
+9143,5581,Enbridge Inc.,15,Investments,"Relevant, not yet calculated",Question not applicable
+9144,5581,Enbridge Inc.,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+9145,5581,Enbridge Inc.,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+9214,5634,Eni SpA,1,Purchased goods and services,"Relevant, calculated",842494
+9215,5634,Eni SpA,2,Capital goods,"Relevant, calculated",691832
+9216,5634,Eni SpA,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",1724373
+9217,5634,Eni SpA,4,Upstream transportation and distribution,"Relevant, calculated",1295250
+9218,5634,Eni SpA,5,Waste generated in operations,"Not relevant, calculated",143100
+9219,5634,Eni SpA,6,Business travel,"Not relevant, calculated",30029
+9220,5634,Eni SpA,7,Employee commuting,"Not relevant, calculated",100892
+9221,5634,Eni SpA,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+9222,5634,Eni SpA,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+9223,5634,Eni SpA,10,Processing of sold products,"Relevant, calculated",9910832
+9224,5634,Eni SpA,11,Use of sold products,"Relevant, calculated",164316808
+9225,5634,Eni SpA,12,End of life treatment of sold products,"Relevant, calculated",82446
+9226,5634,Eni SpA,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+9227,5634,Eni SpA,14,Franchises,"Not relevant, calculated",144628
+9228,5634,Eni SpA,15,Investments,"Not relevant, explanation provided",Question not applicable
+9229,5634,Eni SpA,16,Other (upstream),,Question not applicable
+9230,5634,Eni SpA,17,Other (downstream),,Question not applicable
+9248,5767,"EOG Resources, Inc.",1,Purchased goods and services,,Question not applicable
+9249,5767,"EOG Resources, Inc.",2,Capital goods,,Question not applicable
+9250,5767,"EOG Resources, Inc.",3,Fuel-and-energy-related activities (not included in Scope 1 or 2),,Question not applicable
+9251,5767,"EOG Resources, Inc.",4,Upstream transportation and distribution,,Question not applicable
+9252,5767,"EOG Resources, Inc.",5,Waste generated in operations,,Question not applicable
+9253,5767,"EOG Resources, Inc.",6,Business travel,,Question not applicable
+9254,5767,"EOG Resources, Inc.",7,Employee commuting,,Question not applicable
+9255,5767,"EOG Resources, Inc.",8,Upstream leased assets,,Question not applicable
+9256,5767,"EOG Resources, Inc.",9,Downstream transportation and distribution,,Question not applicable
+9257,5767,"EOG Resources, Inc.",10,Processing of sold products,,Question not applicable
+9258,5767,"EOG Resources, Inc.",11,Use of sold products,"Relevant, calculated",110290526
+9259,5767,"EOG Resources, Inc.",12,End of life treatment of sold products,,Question not applicable
+9260,5767,"EOG Resources, Inc.",13,Downstream leased assets,,Question not applicable
+9261,5767,"EOG Resources, Inc.",14,Franchises,,Question not applicable
+9262,5767,"EOG Resources, Inc.",15,Investments,,Question not applicable
+9263,5767,"EOG Resources, Inc.",16,Other (upstream),,Question not applicable
+9264,5767,"EOG Resources, Inc.",17,Other (downstream),,Question not applicable
+9775,6332,Finnair,1,Purchased goods and services,"Relevant, calculated",236342
+9776,6332,Finnair,2,Capital goods,"Relevant, calculated",0
+9777,6332,Finnair,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",550828
+9778,6332,Finnair,4,Upstream transportation and distribution,"Relevant, calculated",12909
+9779,6332,Finnair,5,Waste generated in operations,"Relevant, calculated",862
+9780,6332,Finnair,6,Business travel,"Relevant, calculated",4953
+9781,6332,Finnair,7,Employee commuting,"Relevant, not yet calculated",Question not applicable
+9782,6332,Finnair,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+9783,6332,Finnair,9,Downstream transportation and distribution,"Not relevant, calculated",120
+9784,6332,Finnair,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+9785,6332,Finnair,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+9786,6332,Finnair,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+9787,6332,Finnair,13,Downstream leased assets,"Relevant, calculated",238532
+9788,6332,Finnair,14,Franchises,"Not relevant, explanation provided",Question not applicable
+9789,6332,Finnair,15,Investments,"Not relevant, explanation provided",Question not applicable
+9790,6332,Finnair,16,Other (upstream),,Question not applicable
+9791,6332,Finnair,17,Other (downstream),,Question not applicable
+10132,6595,Ford Motor Company,1,Purchased goods and services,"Relevant, calculated",40523517
+10133,6595,Ford Motor Company,2,Capital goods,"Relevant, calculated",3692787
+10134,6595,Ford Motor Company,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",749237
+10135,6595,Ford Motor Company,4,Upstream transportation and distribution,"Relevant, calculated",1936637
+10136,6595,Ford Motor Company,5,Waste generated in operations,"Not relevant, calculated",6634
+10137,6595,Ford Motor Company,6,Business travel,"Relevant, calculated",26712
+10138,6595,Ford Motor Company,7,Employee commuting,"Relevant, calculated",564852
+10139,6595,Ford Motor Company,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+10140,6595,Ford Motor Company,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+10141,6595,Ford Motor Company,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+10142,6595,Ford Motor Company,11,Use of sold products,"Relevant, calculated",319568185
+10143,6595,Ford Motor Company,12,End of life treatment of sold products,"Relevant, calculated",1178242
+10144,6595,Ford Motor Company,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+10145,6595,Ford Motor Company,14,Franchises,"Relevant, calculated",1976291
+10146,6595,Ford Motor Company,15,Investments,"Not relevant, explanation provided",Question not applicable
+10147,6595,Ford Motor Company,16,Other (upstream),,Question not applicable
+10148,6595,Ford Motor Company,17,Other (downstream),,Question not applicable
+10149,6602,Formosa Petrochemical,1,Purchased goods and services,"Relevant, calculated",6985841.538
+10150,6602,Formosa Petrochemical,2,Capital goods,"Relevant, calculated",34291.619
+10151,6602,Formosa Petrochemical,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",1482853.872
+10152,6602,Formosa Petrochemical,4,Upstream transportation and distribution,"Relevant, calculated",6168576.024
+10153,6602,Formosa Petrochemical,5,Waste generated in operations,"Relevant, calculated",10521.703
+10154,6602,Formosa Petrochemical,6,Business travel,"Relevant, calculated",0.073
+10155,6602,Formosa Petrochemical,7,Employee commuting,"Relevant, calculated",1058.982
+10156,6602,Formosa Petrochemical,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+10157,6602,Formosa Petrochemical,9,Downstream transportation and distribution,"Relevant, calculated",1286275.513
+10158,6602,Formosa Petrochemical,10,Processing of sold products,"Relevant, calculated",9424319.735
+10159,6602,Formosa Petrochemical,11,Use of sold products,"Relevant, calculated",34891492.66
+10160,6602,Formosa Petrochemical,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+10161,6602,Formosa Petrochemical,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+10162,6602,Formosa Petrochemical,14,Franchises,"Not relevant, explanation provided",Question not applicable
+10163,6602,Formosa Petrochemical,15,Investments,"Relevant, calculated",1769549.015
+10164,6602,Formosa Petrochemical,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+10165,6602,Formosa Petrochemical,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+10438,6855,SUBARU CORPORATION,1,Purchased goods and services,"Relevant, calculated",1726492.8
+10439,6855,SUBARU CORPORATION,2,Capital goods,"Relevant, calculated",402915.2
+10440,6855,SUBARU CORPORATION,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",95351.9
+10441,6855,SUBARU CORPORATION,4,Upstream transportation and distribution,"Relevant, calculated",426929
+10442,6855,SUBARU CORPORATION,5,Waste generated in operations,"Relevant, calculated",28732.9
+10443,6855,SUBARU CORPORATION,6,Business travel,"Relevant, calculated",4877.7
+10444,6855,SUBARU CORPORATION,7,Employee commuting,"Relevant, calculated",14817.6
+10445,6855,SUBARU CORPORATION,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+10446,6855,SUBARU CORPORATION,9,Downstream transportation and distribution,"Relevant, calculated",5842
+10447,6855,SUBARU CORPORATION,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+10448,6855,SUBARU CORPORATION,11,Use of sold products,"Relevant, calculated",27453385
+10449,6855,SUBARU CORPORATION,12,End of life treatment of sold products,"Relevant, calculated",480917
+10450,6855,SUBARU CORPORATION,13,Downstream leased assets,"Relevant, calculated",1984
+10451,6855,SUBARU CORPORATION,14,Franchises,"Not relevant, explanation provided",Question not applicable
+10452,6855,SUBARU CORPORATION,15,Investments,"Not relevant, explanation provided",Question not applicable
+10453,6855,SUBARU CORPORATION,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+10454,6855,SUBARU CORPORATION,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+10829,7164,General Motors Company,1,Purchased goods and services,"Relevant, calculated",49388347
+10830,7164,General Motors Company,2,Capital goods,"Relevant, calculated",3148823
+10831,7164,General Motors Company,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, calculated",281515
+10832,7164,General Motors Company,4,Upstream transportation and distribution,"Not relevant, calculated",2741620
+10833,7164,General Motors Company,5,Waste generated in operations,"Not relevant, calculated",444452
+10834,7164,General Motors Company,6,Business travel,"Not relevant, calculated",20664
+10835,7164,General Motors Company,7,Employee commuting,"Not relevant, calculated",510011
+10836,7164,General Motors Company,8,Upstream leased assets,"Not relevant, calculated",106380
+10837,7164,General Motors Company,9,Downstream transportation and distribution,"Not relevant, calculated",1030317
+10838,7164,General Motors Company,10,Processing of sold products,"Not relevant, calculated",2831687
+10839,7164,General Motors Company,11,Use of sold products,"Relevant, calculated",208553229
+10840,7164,General Motors Company,12,End of life treatment of sold products,"Not relevant, calculated",2375600
+10841,7164,General Motors Company,13,Downstream leased assets,"Not relevant, calculated",42793
+10842,7164,General Motors Company,14,Franchises,"Not relevant, calculated",1181771
+10843,7164,General Motors Company,15,Investments,"Not relevant, calculated",65396
+10844,7164,General Motors Company,16,Other (upstream),Not evaluated,Question not applicable
+10845,7164,General Motors Company,17,Other (downstream),Not evaluated,Question not applicable
+11203,7581,Gol Linhas Aereas Inteligentes S.A.,1,Purchased goods and services,"Relevant, not yet calculated",Question not applicable
+11204,7581,Gol Linhas Aereas Inteligentes S.A.,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+11205,7581,Gol Linhas Aereas Inteligentes S.A.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",108684
+11206,7581,Gol Linhas Aereas Inteligentes S.A.,4,Upstream transportation and distribution,"Relevant, calculated",101998
+11207,7581,Gol Linhas Aereas Inteligentes S.A.,5,Waste generated in operations,"Relevant, calculated",687.45
+11208,7581,Gol Linhas Aereas Inteligentes S.A.,6,Business travel,"Relevant, calculated",450.59
+11209,7581,Gol Linhas Aereas Inteligentes S.A.,7,Employee commuting,"Relevant, calculated",32971
+11210,7581,Gol Linhas Aereas Inteligentes S.A.,8,Upstream leased assets,,Question not applicable
+11211,7581,Gol Linhas Aereas Inteligentes S.A.,9,Downstream transportation and distribution,"Relevant, calculated",282.66
+11212,7581,Gol Linhas Aereas Inteligentes S.A.,10,Processing of sold products,,Question not applicable
+11213,7581,Gol Linhas Aereas Inteligentes S.A.,11,Use of sold products,,Question not applicable
+11214,7581,Gol Linhas Aereas Inteligentes S.A.,12,End of life treatment of sold products,,Question not applicable
+11215,7581,Gol Linhas Aereas Inteligentes S.A.,13,Downstream leased assets,,Question not applicable
+11216,7581,Gol Linhas Aereas Inteligentes S.A.,14,Franchises,,Question not applicable
+11217,7581,Gol Linhas Aereas Inteligentes S.A.,15,Investments,,Question not applicable
+11218,7581,Gol Linhas Aereas Inteligentes S.A.,16,Other (upstream),,Question not applicable
+11219,7581,Gol Linhas Aereas Inteligentes S.A.,17,Other (downstream),,Question not applicable
+12427,8362,"Hino Motors, Ltd.",1,Purchased goods and services,"Relevant, calculated",2786000
+12428,8362,"Hino Motors, Ltd.",2,Capital goods,"Relevant, calculated",162000
+12429,8362,"Hino Motors, Ltd.",3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",67000
+12430,8362,"Hino Motors, Ltd.",4,Upstream transportation and distribution,"Relevant, calculated",12000
+12431,8362,"Hino Motors, Ltd.",5,Waste generated in operations,"Relevant, calculated",8000
+12432,8362,"Hino Motors, Ltd.",6,Business travel,"Relevant, calculated",1000
+12433,8362,"Hino Motors, Ltd.",7,Employee commuting,"Relevant, calculated",33000
+12434,8362,"Hino Motors, Ltd.",8,Upstream leased assets,Not evaluated,Question not applicable
+12435,8362,"Hino Motors, Ltd.",9,Downstream transportation and distribution,"Relevant, calculated",6000
+12436,8362,"Hino Motors, Ltd.",10,Processing of sold products,"Relevant, calculated",870000
+12437,8362,"Hino Motors, Ltd.",11,Use of sold products,"Relevant, calculated",
+12438,8362,"Hino Motors, Ltd.",12,End of life treatment of sold products,"Relevant, calculated",62000
+12439,8362,"Hino Motors, Ltd.",13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+12440,8362,"Hino Motors, Ltd.",14,Franchises,"Relevant, not yet calculated",Question not applicable
+12441,8362,"Hino Motors, Ltd.",15,Investments,"Relevant, calculated",48000
+12442,8362,"Hino Motors, Ltd.",16,Other (upstream),Not evaluated,Question not applicable
+12443,8362,"Hino Motors, Ltd.",17,Other (downstream),Not evaluated,Question not applicable
+12733,8566,"Honda Motor Co., Ltd.",1,Purchased goods and services,"Relevant, calculated",48161150
+12734,8566,"Honda Motor Co., Ltd.",2,Capital goods,"Relevant, calculated",1416564
+12735,8566,"Honda Motor Co., Ltd.",3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",450027
+12736,8566,"Honda Motor Co., Ltd.",4,Upstream transportation and distribution,"Relevant, calculated",2929173
+12737,8566,"Honda Motor Co., Ltd.",5,Waste generated in operations,"Relevant, calculated",200356
+12738,8566,"Honda Motor Co., Ltd.",6,Business travel,"Relevant, calculated",269507
+12739,8566,"Honda Motor Co., Ltd.",7,Employee commuting,"Relevant, calculated",160692
+12740,8566,"Honda Motor Co., Ltd.",8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+12741,8566,"Honda Motor Co., Ltd.",9,Downstream transportation and distribution,"Relevant, calculated",103724
+12742,8566,"Honda Motor Co., Ltd.",10,Processing of sold products,"Relevant, calculated",478
+12743,8566,"Honda Motor Co., Ltd.",11,Use of sold products,"Relevant, calculated",226855366
+12744,8566,"Honda Motor Co., Ltd.",12,End of life treatment of sold products,"Relevant, calculated",3470472
+12745,8566,"Honda Motor Co., Ltd.",13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+12746,8566,"Honda Motor Co., Ltd.",14,Franchises,"Not relevant, explanation provided",Question not applicable
+12747,8566,"Honda Motor Co., Ltd.",15,Investments,"Relevant, calculated",392237
+12748,8566,"Honda Motor Co., Ltd.",16,Other (upstream),,Question not applicable
+12749,8566,"Honda Motor Co., Ltd.",17,Other (downstream),,Question not applicable
+13209,8708,Hyundai Motor Co,1,Purchased goods and services,"Relevant, calculated",19852763
+13210,8708,Hyundai Motor Co,2,Capital goods,"Relevant, calculated",326
+13211,8708,Hyundai Motor Co,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",145177
+13212,8708,Hyundai Motor Co,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+13213,8708,Hyundai Motor Co,5,Waste generated in operations,"Relevant, calculated",1978
+13214,8708,Hyundai Motor Co,6,Business travel,"Relevant, calculated",21370
+13215,8708,Hyundai Motor Co,7,Employee commuting,"Relevant, calculated",6617
+13216,8708,Hyundai Motor Co,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+13217,8708,Hyundai Motor Co,9,Downstream transportation and distribution,"Relevant, calculated",964206
+13218,8708,Hyundai Motor Co,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+13219,8708,Hyundai Motor Co,11,Use of sold products,"Relevant, calculated",81959096
+13220,8708,Hyundai Motor Co,12,End of life treatment of sold products,"Relevant, calculated",2133743
+13221,8708,Hyundai Motor Co,13,Downstream leased assets,"Relevant, calculated",539
+13222,8708,Hyundai Motor Co,14,Franchises,"Not relevant, explanation provided",Question not applicable
+13223,8708,Hyundai Motor Co,15,Investments,"Relevant, calculated",704970
+13224,8708,Hyundai Motor Co,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+13225,8708,Hyundai Motor Co,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+13413,8793,"Idemitsu Kosan Co., Ltd.",1,Purchased goods and services,"Relevant, calculated",15726268
+13414,8793,"Idemitsu Kosan Co., Ltd.",2,Capital goods,"Relevant, calculated",286021
+13415,8793,"Idemitsu Kosan Co., Ltd.",3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",2713579
+13416,8793,"Idemitsu Kosan Co., Ltd.",4,Upstream transportation and distribution,"Relevant, calculated",2423808
+13417,8793,"Idemitsu Kosan Co., Ltd.",5,Waste generated in operations,"Relevant, calculated",64020.906
+13418,8793,"Idemitsu Kosan Co., Ltd.",6,Business travel,"Relevant, calculated",663
+13419,8793,"Idemitsu Kosan Co., Ltd.",7,Employee commuting,"Relevant, calculated",1733
+13420,8793,"Idemitsu Kosan Co., Ltd.",8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+13421,8793,"Idemitsu Kosan Co., Ltd.",9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+13422,8793,"Idemitsu Kosan Co., Ltd.",10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+13423,8793,"Idemitsu Kosan Co., Ltd.",11,Use of sold products,"Relevant, calculated",140531769
+13424,8793,"Idemitsu Kosan Co., Ltd.",12,End of life treatment of sold products,"Relevant, calculated",5789398
+13425,8793,"Idemitsu Kosan Co., Ltd.",13,Downstream leased assets,"Relevant, calculated",12263
+13426,8793,"Idemitsu Kosan Co., Ltd.",14,Franchises,"Relevant, calculated",147217
+13427,8793,"Idemitsu Kosan Co., Ltd.",15,Investments,"Relevant, calculated",1401558
+13428,8793,"Idemitsu Kosan Co., Ltd.",16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+13429,8793,"Idemitsu Kosan Co., Ltd.",17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+13889,9134,Inpex Corporation,1,Purchased goods and services,"Relevant, calculated",686133.111
+13890,9134,Inpex Corporation,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+13891,9134,Inpex Corporation,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+13892,9134,Inpex Corporation,4,Upstream transportation and distribution,"Relevant, calculated",46234.8
+13893,9134,Inpex Corporation,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+13894,9134,Inpex Corporation,6,Business travel,"Not relevant, explanation provided",Question not applicable
+13895,9134,Inpex Corporation,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+13896,9134,Inpex Corporation,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+13897,9134,Inpex Corporation,9,Downstream transportation and distribution,"Relevant, calculated",113340.455
+13898,9134,Inpex Corporation,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+13899,9134,Inpex Corporation,11,Use of sold products,"Relevant, calculated",84309935.69
+13900,9134,Inpex Corporation,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+13901,9134,Inpex Corporation,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+13902,9134,Inpex Corporation,14,Franchises,"Not relevant, explanation provided",Question not applicable
+13903,9134,Inpex Corporation,15,Investments,"Not relevant, explanation provided",Question not applicable
+13904,9134,Inpex Corporation,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+13905,9134,Inpex Corporation,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+14314,9559,Isuzu Motors Limited,1,Purchased goods and services,"Relevant, calculated",6006103
+14315,9559,Isuzu Motors Limited,2,Capital goods,"Relevant, calculated",21510
+14316,9559,Isuzu Motors Limited,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",46263
+14317,9559,Isuzu Motors Limited,4,Upstream transportation and distribution,"Relevant, calculated",40733
+14318,9559,Isuzu Motors Limited,5,Waste generated in operations,"Relevant, calculated",1533
+14319,9559,Isuzu Motors Limited,6,Business travel,"Relevant, calculated",1050
+14320,9559,Isuzu Motors Limited,7,Employee commuting,"Relevant, calculated",3476
+14321,9559,Isuzu Motors Limited,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+14322,9559,Isuzu Motors Limited,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+14323,9559,Isuzu Motors Limited,10,Processing of sold products,"Relevant, calculated",184204
+14324,9559,Isuzu Motors Limited,11,Use of sold products,"Relevant, calculated",96457196
+14325,9559,Isuzu Motors Limited,12,End of life treatment of sold products,"Relevant, calculated",1816
+14326,9559,Isuzu Motors Limited,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+14327,9559,Isuzu Motors Limited,14,Franchises,"Not relevant, explanation provided",Question not applicable
+14328,9559,Isuzu Motors Limited,15,Investments,"Not relevant, explanation provided",Question not applicable
+14329,9559,Isuzu Motors Limited,16,Other (upstream),,Question not applicable
+14330,9559,Isuzu Motors Limited,17,Other (downstream),,Question not applicable
+14603,9703,Japan Airlines Corporation,1,Purchased goods and services,"Relevant, calculated",287012
+14604,9703,Japan Airlines Corporation,2,Capital goods,"Relevant, calculated",350429
+14605,9703,Japan Airlines Corporation,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",1111211
+14606,9703,Japan Airlines Corporation,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+14607,9703,Japan Airlines Corporation,5,Waste generated in operations,"Relevant, calculated",1155
+14608,9703,Japan Airlines Corporation,6,Business travel,"Relevant, calculated",4685
+14609,9703,Japan Airlines Corporation,7,Employee commuting,"Relevant, calculated",8089
+14610,9703,Japan Airlines Corporation,8,Upstream leased assets,"Relevant, calculated",2706
+14611,9703,Japan Airlines Corporation,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+14612,9703,Japan Airlines Corporation,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+14613,9703,Japan Airlines Corporation,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+14614,9703,Japan Airlines Corporation,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+14615,9703,Japan Airlines Corporation,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+14616,9703,Japan Airlines Corporation,14,Franchises,"Not relevant, explanation provided",Question not applicable
+14617,9703,Japan Airlines Corporation,15,Investments,"Not relevant, explanation provided",Question not applicable
+14618,9703,Japan Airlines Corporation,16,Other (upstream),,Question not applicable
+14619,9703,Japan Airlines Corporation,17,Other (downstream),,Question not applicable
+14722,9759,Jetblue Airways Corporation,1,Purchased goods and services,"Relevant, calculated",168597
+14723,9759,Jetblue Airways Corporation,2,Capital goods,"Relevant, calculated",139980
+14724,9759,Jetblue Airways Corporation,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",1687085
+14725,9759,Jetblue Airways Corporation,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+14726,9759,Jetblue Airways Corporation,5,Waste generated in operations,"Relevant, not yet calculated",Question not applicable
+14727,9759,Jetblue Airways Corporation,6,Business travel,"Relevant, calculated",50847
+14728,9759,Jetblue Airways Corporation,7,Employee commuting,Not evaluated,Question not applicable
+14729,9759,Jetblue Airways Corporation,8,Upstream leased assets,"Relevant, calculated",94692
+14730,9759,Jetblue Airways Corporation,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+14731,9759,Jetblue Airways Corporation,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+14732,9759,Jetblue Airways Corporation,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+14733,9759,Jetblue Airways Corporation,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+14734,9759,Jetblue Airways Corporation,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+14735,9759,Jetblue Airways Corporation,14,Franchises,"Not relevant, explanation provided",Question not applicable
+14736,9759,Jetblue Airways Corporation,15,Investments,"Relevant, not yet calculated",Question not applicable
+14737,9759,Jetblue Airways Corporation,16,Other (upstream),Not evaluated,Question not applicable
+14738,9759,Jetblue Airways Corporation,17,Other (downstream),Not evaluated,Question not applicable
+15419,10076,Kia Motors Corp,1,Purchased goods and services,"Relevant, calculated",13736281
+15420,10076,Kia Motors Corp,2,Capital goods,"Relevant, calculated",2545
+15421,10076,Kia Motors Corp,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",99271
+15422,10076,Kia Motors Corp,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+15423,10076,Kia Motors Corp,5,Waste generated in operations,"Relevant, calculated",30796
+15424,10076,Kia Motors Corp,6,Business travel,"Relevant, calculated",5135
+15425,10076,Kia Motors Corp,7,Employee commuting,"Relevant, calculated",277552
+15426,10076,Kia Motors Corp,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+15427,10076,Kia Motors Corp,9,Downstream transportation and distribution,"Relevant, calculated",1153600
+15428,10076,Kia Motors Corp,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+15429,10076,Kia Motors Corp,11,Use of sold products,"Relevant, calculated",57389971
+15430,10076,Kia Motors Corp,12,End of life treatment of sold products,"Relevant, calculated",188991
+15431,10076,Kia Motors Corp,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+15432,10076,Kia Motors Corp,14,Franchises,"Not relevant, explanation provided",Question not applicable
+15433,10076,Kia Motors Corp,15,Investments,"Relevant, calculated",91313
+15434,10076,Kia Motors Corp,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+15435,10076,Kia Motors Corp,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+15589,10150,Kinder Morgan Inc.,1,Purchased goods and services,Not evaluated,Question not applicable
+15590,10150,Kinder Morgan Inc.,2,Capital goods,Not evaluated,Question not applicable
+15591,10150,Kinder Morgan Inc.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),Not evaluated,Question not applicable
+15592,10150,Kinder Morgan Inc.,4,Upstream transportation and distribution,Not evaluated,Question not applicable
+15593,10150,Kinder Morgan Inc.,5,Waste generated in operations,Not evaluated,Question not applicable
+15594,10150,Kinder Morgan Inc.,6,Business travel,Not evaluated,Question not applicable
+15595,10150,Kinder Morgan Inc.,7,Employee commuting,Not evaluated,Question not applicable
+15596,10150,Kinder Morgan Inc.,8,Upstream leased assets,Not evaluated,Question not applicable
+15597,10150,Kinder Morgan Inc.,9,Downstream transportation and distribution,Not evaluated,Question not applicable
+15598,10150,Kinder Morgan Inc.,10,Processing of sold products,Not evaluated,Question not applicable
+15599,10150,Kinder Morgan Inc.,11,Use of sold products,Not evaluated,Question not applicable
+15600,10150,Kinder Morgan Inc.,12,End of life treatment of sold products,Not evaluated,Question not applicable
+15601,10150,Kinder Morgan Inc.,13,Downstream leased assets,Not evaluated,Question not applicable
+15602,10150,Kinder Morgan Inc.,14,Franchises,"Not relevant, explanation provided",Question not applicable
+15603,10150,Kinder Morgan Inc.,15,Investments,Not evaluated,Question not applicable
+15604,10150,Kinder Morgan Inc.,16,Other (upstream),Not evaluated,Question not applicable
+15605,10150,Kinder Morgan Inc.,17,Other (downstream),Not evaluated,Question not applicable
+15963,10289,Korean Air Lines Co Ltd,1,Purchased goods and services,"Relevant, calculated",9998
+15964,10289,Korean Air Lines Co Ltd,2,Capital goods,"Relevant, calculated",22972
+15965,10289,Korean Air Lines Co Ltd,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",1975406
+15966,10289,Korean Air Lines Co Ltd,4,Upstream transportation and distribution,,Question not applicable
+15967,10289,Korean Air Lines Co Ltd,5,Waste generated in operations,"Relevant, calculated",697.919
+15968,10289,Korean Air Lines Co Ltd,6,Business travel,"Relevant, calculated",1.839
+15969,10289,Korean Air Lines Co Ltd,7,Employee commuting,"Relevant, calculated",1078.22
+15970,10289,Korean Air Lines Co Ltd,8,Upstream leased assets,,Question not applicable
+15971,10289,Korean Air Lines Co Ltd,9,Downstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+15972,10289,Korean Air Lines Co Ltd,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+15973,10289,Korean Air Lines Co Ltd,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+15974,10289,Korean Air Lines Co Ltd,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+15975,10289,Korean Air Lines Co Ltd,13,Downstream leased assets,,Question not applicable
+15976,10289,Korean Air Lines Co Ltd,14,Franchises,"Not relevant, explanation provided",Question not applicable
+15977,10289,Korean Air Lines Co Ltd,15,Investments,,Question not applicable
+15978,10289,Korean Air Lines Co Ltd,16,Other (upstream),,Question not applicable
+15979,10289,Korean Air Lines Co Ltd,17,Other (downstream),,Question not applicable
+17102,11043,PJSC Lukoil,1,Purchased goods and services,"Not relevant, explanation provided",Question not applicable
+17103,11043,PJSC Lukoil,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+17104,11043,PJSC Lukoil,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+17105,11043,PJSC Lukoil,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+17106,11043,PJSC Lukoil,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+17107,11043,PJSC Lukoil,6,Business travel,Not evaluated,Question not applicable
+17108,11043,PJSC Lukoil,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+17109,11043,PJSC Lukoil,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+17110,11043,PJSC Lukoil,9,Downstream transportation and distribution,"Relevant, calculated",4458430
+17111,11043,PJSC Lukoil,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+17112,11043,PJSC Lukoil,11,Use of sold products,"Relevant, calculated",319893885
+17113,11043,PJSC Lukoil,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+17114,11043,PJSC Lukoil,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+17115,11043,PJSC Lukoil,14,Franchises,"Not relevant, explanation provided",Question not applicable
+17116,11043,PJSC Lukoil,15,Investments,"Not relevant, explanation provided",Question not applicable
+17117,11043,PJSC Lukoil,16,Other (upstream),,Question not applicable
+17118,11043,PJSC Lukoil,17,Other (downstream),,Question not applicable
+17323,11267,Mahindra & Mahindra,1,Purchased goods and services,"Relevant, calculated",8002325
+17324,11267,Mahindra & Mahindra,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+17325,11267,Mahindra & Mahindra,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, calculated",67102
+17326,11267,Mahindra & Mahindra,4,Upstream transportation and distribution,"Relevant, calculated",82255
+17327,11267,Mahindra & Mahindra,5,Waste generated in operations,"Relevant, calculated",2279
+17328,11267,Mahindra & Mahindra,6,Business travel,"Relevant, calculated",26895
+17329,11267,Mahindra & Mahindra,7,Employee commuting,"Relevant, calculated",4259
+17330,11267,Mahindra & Mahindra,8,Upstream leased assets,"Relevant, calculated",7780
+17331,11267,Mahindra & Mahindra,9,Downstream transportation and distribution,"Relevant, calculated",143101
+17332,11267,Mahindra & Mahindra,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+17333,11267,Mahindra & Mahindra,11,Use of sold products,"Relevant, calculated",71819569
+17334,11267,Mahindra & Mahindra,12,End of life treatment of sold products,"Relevant, calculated",48020
+17335,11267,Mahindra & Mahindra,13,Downstream leased assets,"Relevant, calculated",11008
+17336,11267,Mahindra & Mahindra,14,Franchises,"Relevant, calculated",11008
+17337,11267,Mahindra & Mahindra,15,Investments,"Not relevant, explanation provided",Question not applicable
+17338,11267,Mahindra & Mahindra,16,Other (upstream),Not evaluated,Question not applicable
+17339,11267,Mahindra & Mahindra,17,Other (downstream),Not evaluated,Question not applicable
+17697,11520,Mazda Motor Corporation,1,Purchased goods and services,"Relevant, calculated",3772982
+17698,11520,Mazda Motor Corporation,2,Capital goods,"Relevant, calculated",171508
+17699,11520,Mazda Motor Corporation,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",105146
+17700,11520,Mazda Motor Corporation,4,Upstream transportation and distribution,"Relevant, calculated",24769
+17701,11520,Mazda Motor Corporation,5,Waste generated in operations,"Relevant, calculated",4046
+17702,11520,Mazda Motor Corporation,6,Business travel,"Relevant, calculated",628
+17703,11520,Mazda Motor Corporation,7,Employee commuting,"Relevant, calculated",13875
+17704,11520,Mazda Motor Corporation,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+17705,11520,Mazda Motor Corporation,9,Downstream transportation and distribution,"Relevant, calculated",57741
+17706,11520,Mazda Motor Corporation,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+17707,11520,Mazda Motor Corporation,11,Use of sold products,"Relevant, calculated",26081000
+17708,11520,Mazda Motor Corporation,12,End of life treatment of sold products,"Relevant, calculated",288971
+17709,11520,Mazda Motor Corporation,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+17710,11520,Mazda Motor Corporation,14,Franchises,"Not relevant, explanation provided",Question not applicable
+17711,11520,Mazda Motor Corporation,15,Investments,"Not relevant, explanation provided",Question not applicable
+17712,11520,Mazda Motor Corporation,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+17713,11520,Mazda Motor Corporation,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+18513,12263,Mitsubishi Motors Corporation,1,Purchased goods and services,"Relevant, calculated",6805925
+18514,12263,Mitsubishi Motors Corporation,2,Capital goods,"Relevant, calculated",120650
+18515,12263,Mitsubishi Motors Corporation,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",69830
+18516,12263,Mitsubishi Motors Corporation,4,Upstream transportation and distribution,"Relevant, calculated",1622186
+18517,12263,Mitsubishi Motors Corporation,5,Waste generated in operations,"Relevant, calculated",14771
+18518,12263,Mitsubishi Motors Corporation,6,Business travel,"Relevant, calculated",3696
+18519,12263,Mitsubishi Motors Corporation,7,Employee commuting,"Relevant, calculated",12532
+18520,12263,Mitsubishi Motors Corporation,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+18521,12263,Mitsubishi Motors Corporation,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+18522,12263,Mitsubishi Motors Corporation,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+18523,12263,Mitsubishi Motors Corporation,11,Use of sold products,"Relevant, calculated",19529941
+18524,12263,Mitsubishi Motors Corporation,12,End of life treatment of sold products,"Relevant, calculated",517430
+18525,12263,Mitsubishi Motors Corporation,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+18526,12263,Mitsubishi Motors Corporation,14,Franchises,"Relevant, calculated",12095
+18527,12263,Mitsubishi Motors Corporation,15,Investments,"Not relevant, explanation provided",Question not applicable
+18528,12263,Mitsubishi Motors Corporation,16,Other (upstream),,Question not applicable
+18529,12263,Mitsubishi Motors Corporation,17,Other (downstream),,Question not applicable
+18700,12343,MOL Nyrt.,1,Purchased goods and services,"Relevant, calculated",2004138
+18701,12343,MOL Nyrt.,2,Capital goods,"Relevant, calculated",14
+18702,12343,MOL Nyrt.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+18703,12343,MOL Nyrt.,4,Upstream transportation and distribution,"Relevant, calculated",218772
+18704,12343,MOL Nyrt.,5,Waste generated in operations,"Relevant, not yet calculated",Question not applicable
+18705,12343,MOL Nyrt.,6,Business travel,"Not relevant, explanation provided",Question not applicable
+18706,12343,MOL Nyrt.,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+18707,12343,MOL Nyrt.,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+18708,12343,MOL Nyrt.,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+18709,12343,MOL Nyrt.,10,Processing of sold products,"Relevant, not yet calculated",Question not applicable
+18710,12343,MOL Nyrt.,11,Use of sold products,"Relevant, calculated",55597335
+18711,12343,MOL Nyrt.,12,End of life treatment of sold products,"Relevant, calculated",645073
+18712,12343,MOL Nyrt.,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+18713,12343,MOL Nyrt.,14,Franchises,"Not relevant, explanation provided",Question not applicable
+18714,12343,MOL Nyrt.,15,Investments,"Relevant, calculated",345807
+18715,12343,MOL Nyrt.,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+18716,12343,MOL Nyrt.,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+20111,13363,"Nissan Motor Co., Ltd.",1,Purchased goods and services,"Relevant, calculated",11839637
+20112,13363,"Nissan Motor Co., Ltd.",2,Capital goods,"Relevant, calculated",1066498
+20113,13363,"Nissan Motor Co., Ltd.",3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",245623
+20114,13363,"Nissan Motor Co., Ltd.",4,Upstream transportation and distribution,"Relevant, calculated",767708
+20115,13363,"Nissan Motor Co., Ltd.",5,Waste generated in operations,"Relevant, calculated",118153
+20116,13363,"Nissan Motor Co., Ltd.",6,Business travel,"Relevant, calculated",65754
+20117,13363,"Nissan Motor Co., Ltd.",7,Employee commuting,"Relevant, calculated",134209
+20118,13363,"Nissan Motor Co., Ltd.",8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+20119,13363,"Nissan Motor Co., Ltd.",9,Downstream transportation and distribution,"Relevant, calculated",522967
+20120,13363,"Nissan Motor Co., Ltd.",10,Processing of sold products,"Relevant, calculated",6438
+20121,13363,"Nissan Motor Co., Ltd.",11,Use of sold products,"Relevant, calculated",103391343
+20122,13363,"Nissan Motor Co., Ltd.",12,End of life treatment of sold products,"Relevant, calculated",253058
+20123,13363,"Nissan Motor Co., Ltd.",13,Downstream leased assets,"Relevant, calculated",416983
+20124,13363,"Nissan Motor Co., Ltd.",14,Franchises,"Not relevant, explanation provided",Question not applicable
+20125,13363,"Nissan Motor Co., Ltd.",15,Investments,"Not relevant, explanation provided",Question not applicable
+20126,13363,"Nissan Motor Co., Ltd.",16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+20127,13363,"Nissan Motor Co., Ltd.",17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+20723,13649,Occidental Petroleum Corporation,1,Purchased goods and services,"Not relevant, explanation provided",Question not applicable
+20724,13649,Occidental Petroleum Corporation,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+20725,13649,Occidental Petroleum Corporation,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+20726,13649,Occidental Petroleum Corporation,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+20727,13649,Occidental Petroleum Corporation,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+20728,13649,Occidental Petroleum Corporation,6,Business travel,"Not relevant, explanation provided",Question not applicable
+20729,13649,Occidental Petroleum Corporation,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+20730,13649,Occidental Petroleum Corporation,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+20731,13649,Occidental Petroleum Corporation,9,Downstream transportation and distribution,"Relevant, calculated",1600000
+20732,13649,Occidental Petroleum Corporation,10,Processing of sold products,"Relevant, calculated",20200000
+20733,13649,Occidental Petroleum Corporation,11,Use of sold products,"Relevant, calculated",195200000
+20734,13649,Occidental Petroleum Corporation,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+20735,13649,Occidental Petroleum Corporation,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+20736,13649,Occidental Petroleum Corporation,14,Franchises,"Not relevant, explanation provided",Question not applicable
+20737,13649,Occidental Petroleum Corporation,15,Investments,"Not relevant, explanation provided",Question not applicable
+20738,13649,Occidental Petroleum Corporation,16,Other (upstream),Not evaluated,Question not applicable
+20739,13649,Occidental Petroleum Corporation,17,Other (downstream),Not evaluated,Question not applicable
+20893,13870,OMV AG,1,Purchased goods and services,"Relevant, calculated",11295092
+20894,13870,OMV AG,2,Capital goods,"Relevant, calculated",702897
+20895,13870,OMV AG,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",409484
+20896,13870,OMV AG,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+20897,13870,OMV AG,5,Waste generated in operations,"Relevant, calculated",282824
+20898,13870,OMV AG,6,Business travel,"Not relevant, explanation provided",Question not applicable
+20899,13870,OMV AG,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+20900,13870,OMV AG,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+20901,13870,OMV AG,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+20902,13870,OMV AG,10,Processing of sold products,"Relevant, calculated",9559940
+20903,13870,OMV AG,11,Use of sold products,"Relevant, calculated",97135850
+20904,13870,OMV AG,12,End of life treatment of sold products,"Relevant, calculated",11095033
+20905,13870,OMV AG,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+20906,13870,OMV AG,14,Franchises,"Not relevant, explanation provided",Question not applicable
+20907,13870,OMV AG,15,Investments,"Relevant, not yet calculated",Question not applicable
+20908,13870,OMV AG,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+20909,13870,OMV AG,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+21250,14169,PACCAR Inc,1,Purchased goods and services,"Not relevant, calculated",1525189
+21251,14169,PACCAR Inc,2,Capital goods,"Not relevant, calculated",397565
+21252,14169,PACCAR Inc,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, calculated",11010
+21253,14169,PACCAR Inc,4,Upstream transportation and distribution,"Not relevant, calculated",2404200
+21254,14169,PACCAR Inc,5,Waste generated in operations,"Not relevant, calculated",214
+21255,14169,PACCAR Inc,6,Business travel,"Not relevant, calculated",7874
+21256,14169,PACCAR Inc,7,Employee commuting,"Not relevant, calculated",50289
+21257,14169,PACCAR Inc,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+21258,14169,PACCAR Inc,9,Downstream transportation and distribution,"Not relevant, calculated",324605
+21259,14169,PACCAR Inc,10,Processing of sold products,"Not relevant, calculated",82810
+21260,14169,PACCAR Inc,11,Use of sold products,"Relevant, calculated",109724549
+21261,14169,PACCAR Inc,12,End of life treatment of sold products,"Not relevant, calculated",13772
+21262,14169,PACCAR Inc,13,Downstream leased assets,"Not relevant, calculated",785
+21263,14169,PACCAR Inc,14,Franchises,"Not relevant, explanation provided",Question not applicable
+21264,14169,PACCAR Inc,15,Investments,"Not relevant, explanation provided",Question not applicable
+21265,14169,PACCAR Inc,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+21266,14169,PACCAR Inc,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+21590,14654,Petróleo Brasileiro SA - Petrobras,1,Purchased goods and services,"Relevant, calculated",2101810
+21591,14654,Petróleo Brasileiro SA - Petrobras,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+21592,14654,Petróleo Brasileiro SA - Petrobras,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",937144
+21593,14654,Petróleo Brasileiro SA - Petrobras,4,Upstream transportation and distribution,"Relevant, calculated",2596475
+21594,14654,Petróleo Brasileiro SA - Petrobras,5,Waste generated in operations,"Not relevant, calculated",34721
+21595,14654,Petróleo Brasileiro SA - Petrobras,6,Business travel,"Not relevant, calculated",8324
+21596,14654,Petróleo Brasileiro SA - Petrobras,7,Employee commuting,"Not relevant, calculated",26043
+21597,14654,Petróleo Brasileiro SA - Petrobras,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+21598,14654,Petróleo Brasileiro SA - Petrobras,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+21599,14654,Petróleo Brasileiro SA - Petrobras,10,Processing of sold products,"Relevant, calculated",16931817
+21600,14654,Petróleo Brasileiro SA - Petrobras,11,Use of sold products,"Relevant, calculated",420517720
+21601,14654,Petróleo Brasileiro SA - Petrobras,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+21602,14654,Petróleo Brasileiro SA - Petrobras,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+21603,14654,Petróleo Brasileiro SA - Petrobras,14,Franchises,"Not relevant, explanation provided",Question not applicable
+21604,14654,Petróleo Brasileiro SA - Petrobras,15,Investments,"Not relevant, explanation provided",Question not applicable
+21605,14654,Petróleo Brasileiro SA - Petrobras,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+21606,14654,Petróleo Brasileiro SA - Petrobras,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+21760,14774,ORLEN S.A.,1,Purchased goods and services,Not evaluated,Question not applicable
+21761,14774,ORLEN S.A.,2,Capital goods,Not evaluated,Question not applicable
+21762,14774,ORLEN S.A.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),Not evaluated,Question not applicable
+21763,14774,ORLEN S.A.,4,Upstream transportation and distribution,Not evaluated,Question not applicable
+21764,14774,ORLEN S.A.,5,Waste generated in operations,Not evaluated,Question not applicable
+21765,14774,ORLEN S.A.,6,Business travel,Not evaluated,Question not applicable
+21766,14774,ORLEN S.A.,7,Employee commuting,Not evaluated,Question not applicable
+21767,14774,ORLEN S.A.,8,Upstream leased assets,Not evaluated,Question not applicable
+21768,14774,ORLEN S.A.,9,Downstream transportation and distribution,Not evaluated,Question not applicable
+21769,14774,ORLEN S.A.,10,Processing of sold products,Not evaluated,Question not applicable
+21770,14774,ORLEN S.A.,11,Use of sold products,Not evaluated,Question not applicable
+21771,14774,ORLEN S.A.,12,End of life treatment of sold products,Not evaluated,Question not applicable
+21772,14774,ORLEN S.A.,13,Downstream leased assets,Not evaluated,Question not applicable
+21773,14774,ORLEN S.A.,14,Franchises,Not evaluated,Question not applicable
+21774,14774,ORLEN S.A.,15,Investments,Not evaluated,Question not applicable
+21775,14774,ORLEN S.A.,16,Other (upstream),Not evaluated,Question not applicable
+21776,14774,ORLEN S.A.,17,Other (downstream),Not evaluated,Question not applicable
+21794,14802,Pioneer Natural Resources,1,Purchased goods and services,"Not relevant, explanation provided",Question not applicable
+21795,14802,Pioneer Natural Resources,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+21796,14802,Pioneer Natural Resources,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+21797,14802,Pioneer Natural Resources,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+21798,14802,Pioneer Natural Resources,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+21799,14802,Pioneer Natural Resources,6,Business travel,"Not relevant, explanation provided",Question not applicable
+21800,14802,Pioneer Natural Resources,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+21801,14802,Pioneer Natural Resources,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+21802,14802,Pioneer Natural Resources,9,Downstream transportation and distribution,"Relevant, calculated",13000000
+21803,14802,Pioneer Natural Resources,10,Processing of sold products,"Relevant, calculated",31000000
+21804,14802,Pioneer Natural Resources,11,Use of sold products,"Relevant, calculated",118000000
+21805,14802,Pioneer Natural Resources,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+21806,14802,Pioneer Natural Resources,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+21807,14802,Pioneer Natural Resources,14,Franchises,"Not relevant, explanation provided",Question not applicable
+21808,14802,Pioneer Natural Resources,15,Investments,"Not relevant, explanation provided",Question not applicable
+21809,14802,Pioneer Natural Resources,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+21810,14802,Pioneer Natural Resources,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+22389,15297,PTT,1,Purchased goods and services,"Relevant, not yet calculated",Question not applicable
+22390,15297,PTT,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+22391,15297,PTT,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, not yet calculated",Question not applicable
+22392,15297,PTT,4,Upstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+22393,15297,PTT,5,Waste generated in operations,"Relevant, calculated",35185
+22394,15297,PTT,6,Business travel,"Relevant, calculated",4246
+22395,15297,PTT,7,Employee commuting,"Relevant, not yet calculated",Question not applicable
+22396,15297,PTT,8,Upstream leased assets,"Relevant, not yet calculated",Question not applicable
+22397,15297,PTT,9,Downstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+22398,15297,PTT,10,Processing of sold products,"Relevant, not yet calculated",Question not applicable
+22399,15297,PTT,11,Use of sold products,"Relevant, calculated",132132928
+22400,15297,PTT,12,End of life treatment of sold products,"Relevant, not yet calculated",Question not applicable
+22401,15297,PTT,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+22402,15297,PTT,14,Franchises,"Not relevant, explanation provided",Question not applicable
+22403,15297,PTT,15,Investments,"Not relevant, explanation provided",Question not applicable
+22404,15297,PTT,16,Other (upstream),Not evaluated,Question not applicable
+22405,15297,PTT,17,Other (downstream),Not evaluated,Question not applicable
+22967,15634,Renault Group,1,Purchased goods and services,"Relevant, calculated",8211912
+22968,15634,Renault Group,2,Capital goods,"Relevant, calculated",673002
+22969,15634,Renault Group,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, calculated",91611
+22970,15634,Renault Group,4,Upstream transportation and distribution,"Relevant, calculated",336569
+22971,15634,Renault Group,5,Waste generated in operations,"Relevant, calculated",1062344
+22972,15634,Renault Group,6,Business travel,"Not relevant, calculated",16389
+22973,15634,Renault Group,7,Employee commuting,"Not relevant, calculated",15783
+22974,15634,Renault Group,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+22975,15634,Renault Group,9,Downstream transportation and distribution,"Relevant, calculated",329753
+22976,15634,Renault Group,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+22977,15634,Renault Group,11,Use of sold products,"Relevant, calculated",45937304
+22978,15634,Renault Group,12,End of life treatment of sold products,"Relevant, calculated",1425175
+22979,15634,Renault Group,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+22980,15634,Renault Group,14,Franchises,"Relevant, calculated",178407
+22981,15634,Renault Group,15,Investments,"Relevant, calculated",971781
+22982,15634,Renault Group,16,Other (upstream),,Question not applicable
+22983,15634,Renault Group,17,Other (downstream),,Question not applicable
+23086,15669,Repsol,1,Purchased goods and services,"Relevant, calculated",6182652
+23087,15669,Repsol,2,Capital goods,"Not relevant, calculated",596775
+23088,15669,Repsol,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, calculated",41484
+23089,15669,Repsol,4,Upstream transportation and distribution,"Not relevant, calculated",1332026
+23090,15669,Repsol,5,Waste generated in operations,"Not relevant, calculated",38722
+23091,15669,Repsol,6,Business travel,"Not relevant, calculated",4237
+23092,15669,Repsol,7,Employee commuting,"Not relevant, calculated",25586
+23093,15669,Repsol,8,Upstream leased assets,"Not relevant, calculated",11193
+23094,15669,Repsol,9,Downstream transportation and distribution,"Not relevant, calculated",464245
+23095,15669,Repsol,10,Processing of sold products,"Not relevant, calculated",859877
+23096,15669,Repsol,11,Use of sold products,"Relevant, calculated",66161816
+23097,15669,Repsol,12,End of life treatment of sold products,"Not relevant, calculated",41219
+23098,15669,Repsol,13,Downstream leased assets,"Not relevant, calculated",18477
+23099,15669,Repsol,14,Franchises,"Not relevant, calculated",21105
+23100,15669,Repsol,15,Investments,"Not relevant, explanation provided",Question not applicable
+23101,15669,Repsol,16,Other (upstream),,Question not applicable
+23102,15669,Repsol,17,Other (downstream),,Question not applicable
+23596,16012,Shell PLC,1,Purchased goods and services,"Relevant, calculated",144000000
+23597,16012,Shell PLC,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+23598,16012,Shell PLC,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",117000000
+23599,16012,Shell PLC,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+23600,16012,Shell PLC,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+23601,16012,Shell PLC,6,Business travel,"Not relevant, explanation provided",Question not applicable
+23602,16012,Shell PLC,7,Employee commuting,"Not relevant, calculated",200000
+23603,16012,Shell PLC,8,Upstream leased assets,"Relevant, calculated",3400000
+23604,16012,Shell PLC,9,Downstream transportation and distribution,"Relevant, calculated",6000000
+23605,16012,Shell PLC,10,Processing of sold products,"Relevant, calculated",3000000
+23606,16012,Shell PLC,11,Use of sold products,"Relevant, calculated",910350000
+23607,16012,Shell PLC,12,End of life treatment of sold products,"Relevant, calculated",17000000
+23608,16012,Shell PLC,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+23609,16012,Shell PLC,14,Franchises,"Relevant, calculated",1700000
+23610,16012,Shell PLC,15,Investments,"Relevant, calculated",1100000
+23611,16012,Shell PLC,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+23612,16012,Shell PLC,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+24395,16418,Schlumberger Limited,1,Purchased goods and services,"Relevant, calculated",6746614
+24396,16418,Schlumberger Limited,2,Capital goods,"Relevant, calculated",93713
+24397,16418,Schlumberger Limited,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",90133
+24398,16418,Schlumberger Limited,4,Upstream transportation and distribution,"Relevant, calculated",927600
+24399,16418,Schlumberger Limited,5,Waste generated in operations,"Relevant, calculated",64781
+24400,16418,Schlumberger Limited,6,Business travel,"Relevant, calculated",122918
+24401,16418,Schlumberger Limited,7,Employee commuting,"Relevant, calculated",58179
+24402,16418,Schlumberger Limited,8,Upstream leased assets,"Relevant, calculated",743128
+24403,16418,Schlumberger Limited,9,Downstream transportation and distribution,"Relevant, calculated",1000
+24404,16418,Schlumberger Limited,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+24405,16418,Schlumberger Limited,11,Use of sold products,"Relevant, calculated",19824752
+24406,16418,Schlumberger Limited,12,End of life treatment of sold products,"Relevant, calculated",122493
+24407,16418,Schlumberger Limited,13,Downstream leased assets,"Relevant, calculated",3504935
+24408,16418,Schlumberger Limited,14,Franchises,"Not relevant, explanation provided",Question not applicable
+24409,16418,Schlumberger Limited,15,Investments,"Relevant, calculated",2548727
+24410,16418,Schlumberger Limited,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+24411,16418,Schlumberger Limited,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+26027,17420,Southwest Airlines Co.,1,Purchased goods and services,"Relevant, calculated",1496394
+26028,17420,Southwest Airlines Co.,2,Capital goods,"Relevant, calculated",197969
+26029,17420,Southwest Airlines Co.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",3751272
+26030,17420,Southwest Airlines Co.,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+26031,17420,Southwest Airlines Co.,5,Waste generated in operations,"Relevant, calculated",1632
+26032,17420,Southwest Airlines Co.,6,Business travel,"Not relevant, explanation provided",Question not applicable
+26033,17420,Southwest Airlines Co.,7,Employee commuting,"Relevant, calculated",162762
+26034,17420,Southwest Airlines Co.,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+26035,17420,Southwest Airlines Co.,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+26036,17420,Southwest Airlines Co.,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+26037,17420,Southwest Airlines Co.,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+26038,17420,Southwest Airlines Co.,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+26039,17420,Southwest Airlines Co.,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+26040,17420,Southwest Airlines Co.,14,Franchises,"Not relevant, explanation provided",Question not applicable
+26041,17420,Southwest Airlines Co.,15,Investments,"Not relevant, explanation provided",Question not applicable
+26042,17420,Southwest Airlines Co.,16,Other (upstream),Not evaluated,Question not applicable
+26043,17420,Southwest Airlines Co.,17,Other (downstream),Not evaluated,Question not applicable
+26741,17929,Suncor Energy Inc.,1,Purchased goods and services,"Relevant, calculated",2000000
+26742,17929,Suncor Energy Inc.,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+26743,17929,Suncor Energy Inc.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",7500000
+26744,17929,Suncor Energy Inc.,4,Upstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+26745,17929,Suncor Energy Inc.,5,Waste generated in operations,"Relevant, not yet calculated",Question not applicable
+26746,17929,Suncor Energy Inc.,6,Business travel,"Relevant, not yet calculated",Question not applicable
+26747,17929,Suncor Energy Inc.,7,Employee commuting,"Relevant, not yet calculated",Question not applicable
+26748,17929,Suncor Energy Inc.,8,Upstream leased assets,"Relevant, not yet calculated",Question not applicable
+26749,17929,Suncor Energy Inc.,9,Downstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+26750,17929,Suncor Energy Inc.,10,Processing of sold products,"Relevant, calculated",7500000
+26751,17929,Suncor Energy Inc.,11,Use of sold products,"Relevant, calculated",126000000
+26752,17929,Suncor Energy Inc.,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+26753,17929,Suncor Energy Inc.,13,Downstream leased assets,"Relevant, not yet calculated",Question not applicable
+26754,17929,Suncor Energy Inc.,14,Franchises,"Relevant, not yet calculated",Question not applicable
+26755,17929,Suncor Energy Inc.,15,Investments,"Relevant, not yet calculated",Question not applicable
+26756,17929,Suncor Energy Inc.,16,Other (upstream),Not evaluated,Question not applicable
+26757,17929,Suncor Energy Inc.,17,Other (downstream),Not evaluated,Question not applicable
+26826,18074,Suzuki Motor Corporation,1,Purchased goods and services,"Relevant, calculated",10197586
+26827,18074,Suzuki Motor Corporation,2,Capital goods,"Relevant, calculated",649604
+26828,18074,Suzuki Motor Corporation,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",227655
+26829,18074,Suzuki Motor Corporation,4,Upstream transportation and distribution,"Relevant, calculated",66897
+26830,18074,Suzuki Motor Corporation,5,Waste generated in operations,"Relevant, calculated",15016
+26831,18074,Suzuki Motor Corporation,6,Business travel,"Relevant, calculated",5180
+26832,18074,Suzuki Motor Corporation,7,Employee commuting,"Relevant, calculated",43805
+26833,18074,Suzuki Motor Corporation,8,Upstream leased assets,"Relevant, calculated",102
+26834,18074,Suzuki Motor Corporation,9,Downstream transportation and distribution,"Relevant, calculated",742683
+26835,18074,Suzuki Motor Corporation,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+26836,18074,Suzuki Motor Corporation,11,Use of sold products,"Relevant, calculated",62494916
+26837,18074,Suzuki Motor Corporation,12,End of life treatment of sold products,"Relevant, calculated",29114
+26838,18074,Suzuki Motor Corporation,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+26839,18074,Suzuki Motor Corporation,14,Franchises,"Not relevant, explanation provided",Question not applicable
+26840,18074,Suzuki Motor Corporation,15,Investments,"Not relevant, explanation provided",Question not applicable
+26841,18074,Suzuki Motor Corporation,16,Other (upstream),,Question not applicable
+26842,18074,Suzuki Motor Corporation,17,Other (downstream),,Question not applicable
+27200,18285,Tata Motors,1,Purchased goods and services,"Relevant, calculated",326061
+27201,18285,Tata Motors,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+27202,18285,Tata Motors,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",108446
+27203,18285,Tata Motors,4,Upstream transportation and distribution,"Relevant, calculated",25317
+27204,18285,Tata Motors,5,Waste generated in operations,"Relevant, calculated",1512
+27205,18285,Tata Motors,6,Business travel,"Relevant, calculated",2354
+27206,18285,Tata Motors,7,Employee commuting,"Relevant, calculated",14004
+27207,18285,Tata Motors,8,Upstream leased assets,"Relevant, calculated",1886
+27208,18285,Tata Motors,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+27209,18285,Tata Motors,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+27210,18285,Tata Motors,11,Use of sold products,"Relevant, calculated",9841571
+27211,18285,Tata Motors,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+27212,18285,Tata Motors,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+27213,18285,Tata Motors,14,Franchises,"Relevant, calculated",14130
+27214,18285,Tata Motors,15,Investments,"Not relevant, explanation provided",Question not applicable
+27215,18285,Tata Motors,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+27216,18285,Tata Motors,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+28679,19257,TotalEnergies,1,Purchased goods and services,"Relevant, calculated",30000000
+28680,19257,TotalEnergies,2,Capital goods,"Not relevant, calculated",1000000
+28681,19257,TotalEnergies,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, calculated",3000000
+28682,19257,TotalEnergies,4,Upstream transportation and distribution,"Not relevant, calculated",9000000
+28683,19257,TotalEnergies,5,Waste generated in operations,"Not relevant, calculated",1000000
+28684,19257,TotalEnergies,6,Business travel,"Not relevant, calculated",1000000
+28685,19257,TotalEnergies,7,Employee commuting,"Not relevant, calculated",1000000
+28686,19257,TotalEnergies,8,Upstream leased assets,"Not relevant, calculated",0
+28687,19257,TotalEnergies,9,Downstream transportation and distribution,"Not relevant, calculated",1000000
+28688,19257,TotalEnergies,10,Processing of sold products,"Not relevant, calculated",6000000
+28689,19257,TotalEnergies,11,Use of sold products,"Relevant, calculated",381000000
+28690,19257,TotalEnergies,12,End of life treatment of sold products,"Not relevant, calculated",11000000
+28691,19257,TotalEnergies,13,Downstream leased assets,"Not relevant, calculated",0
+28692,19257,TotalEnergies,14,Franchises,"Not relevant, calculated",1000000
+28693,19257,TotalEnergies,15,Investments,"Not relevant, calculated",0
+28694,19257,TotalEnergies,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+28695,19257,TotalEnergies,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+28815,19290,Toyota Motor Corporation,1,Purchased goods and services,"Relevant, calculated",110465318
+28816,19290,Toyota Motor Corporation,2,Capital goods,"Relevant, calculated",5050000
+28817,19290,Toyota Motor Corporation,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",1200000
+28818,19290,Toyota Motor Corporation,4,Upstream transportation and distribution,"Relevant, calculated",4267536.865
+28819,19290,Toyota Motor Corporation,5,Waste generated in operations,"Relevant, calculated",100000
+28820,19290,Toyota Motor Corporation,6,Business travel,"Relevant, calculated",56505
+28821,19290,Toyota Motor Corporation,7,Employee commuting,"Relevant, calculated",611597
+28822,19290,Toyota Motor Corporation,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+28823,19290,Toyota Motor Corporation,9,Downstream transportation and distribution,"Relevant, calculated",57570.811
+28824,19290,Toyota Motor Corporation,10,Processing of sold products,"Relevant, calculated",118064
+28825,19290,Toyota Motor Corporation,11,Use of sold products,"Relevant, calculated",440724699
+28826,19290,Toyota Motor Corporation,12,End of life treatment of sold products,"Relevant, calculated",4821424
+28827,19290,Toyota Motor Corporation,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+28828,19290,Toyota Motor Corporation,14,Franchises,"Relevant, calculated",4090849
+28829,19290,Toyota Motor Corporation,15,Investments,"Relevant, calculated",126053
+28830,19290,Toyota Motor Corporation,16,Other (upstream),,Question not applicable
+28831,19290,Toyota Motor Corporation,17,Other (downstream),,Question not applicable
+28832,19304,TC Energy,1,Purchased goods and services,"Relevant, not yet calculated",Question not applicable
+28833,19304,TC Energy,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+28834,19304,TC Energy,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",3480792.1
+28835,19304,TC Energy,4,Upstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+28836,19304,TC Energy,5,Waste generated in operations,"Relevant, calculated",22901
+28837,19304,TC Energy,6,Business travel,"Relevant, calculated",6358
+28838,19304,TC Energy,7,Employee commuting,"Relevant, not yet calculated",Question not applicable
+28839,19304,TC Energy,8,Upstream leased assets,"Relevant, calculated",8790
+28840,19304,TC Energy,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+28841,19304,TC Energy,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+28842,19304,TC Energy,11,Use of sold products,"Relevant, not yet calculated",Question not applicable
+28843,19304,TC Energy,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+28844,19304,TC Energy,13,Downstream leased assets,"Relevant, not yet calculated",Question not applicable
+28845,19304,TC Energy,14,Franchises,"Not relevant, explanation provided",Question not applicable
+28846,19304,TC Energy,15,Investments,"Relevant, not yet calculated",Question not applicable
+28847,19304,TC Energy,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+28848,19304,TC Energy,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+29138,19569,United Airlines Holdings,1,Purchased goods and services,"Relevant, calculated",6595560
+29139,19569,United Airlines Holdings,2,Capital goods,"Relevant, calculated",205295
+29140,19569,United Airlines Holdings,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",8318322
+29141,19569,United Airlines Holdings,4,Upstream transportation and distribution,"Relevant, calculated",4519196
+29142,19569,United Airlines Holdings,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+29143,19569,United Airlines Holdings,6,Business travel,"Not relevant, explanation provided",Question not applicable
+29144,19569,United Airlines Holdings,7,Employee commuting,"Not relevant, calculated",111108
+29145,19569,United Airlines Holdings,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+29146,19569,United Airlines Holdings,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+29147,19569,United Airlines Holdings,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+29148,19569,United Airlines Holdings,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+29149,19569,United Airlines Holdings,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+29150,19569,United Airlines Holdings,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+29151,19569,United Airlines Holdings,14,Franchises,"Not relevant, calculated",163902
+29152,19569,United Airlines Holdings,15,Investments,"Relevant, calculated",231148
+29153,19569,United Airlines Holdings,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+29154,19569,United Airlines Holdings,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+29648,20048,Valero Energy Corporation,1,Purchased goods and services,,Question not applicable
+29649,20048,Valero Energy Corporation,2,Capital goods,,Question not applicable
+29650,20048,Valero Energy Corporation,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),,Question not applicable
+29651,20048,Valero Energy Corporation,4,Upstream transportation and distribution,,Question not applicable
+29652,20048,Valero Energy Corporation,5,Waste generated in operations,,Question not applicable
+29653,20048,Valero Energy Corporation,6,Business travel,,Question not applicable
+29654,20048,Valero Energy Corporation,7,Employee commuting,,Question not applicable
+29655,20048,Valero Energy Corporation,8,Upstream leased assets,,Question not applicable
+29656,20048,Valero Energy Corporation,9,Downstream transportation and distribution,,Question not applicable
+29657,20048,Valero Energy Corporation,10,Processing of sold products,,Question not applicable
+29658,20048,Valero Energy Corporation,11,Use of sold products,,Question not applicable
+29659,20048,Valero Energy Corporation,12,End of life treatment of sold products,,Question not applicable
+29660,20048,Valero Energy Corporation,13,Downstream leased assets,,Question not applicable
+29661,20048,Valero Energy Corporation,14,Franchises,,Question not applicable
+29662,20048,Valero Energy Corporation,15,Investments,,Question not applicable
+29663,20048,Valero Energy Corporation,16,Other (upstream),,Question not applicable
+29664,20048,Valero Energy Corporation,17,Other (downstream),,Question not applicable
+29988,20309,Volkswagen AG,1,Purchased goods and services,"Relevant, calculated",80786280
+29989,20309,Volkswagen AG,2,Capital goods,"Relevant, calculated",6633357
+29990,20309,Volkswagen AG,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",1034162
+29991,20309,Volkswagen AG,4,Upstream transportation and distribution,"Relevant, calculated",4189774
+29992,20309,Volkswagen AG,5,Waste generated in operations,"Relevant, calculated",909775
+29993,20309,Volkswagen AG,6,Business travel,"Relevant, calculated",123816
+29994,20309,Volkswagen AG,7,Employee commuting,"Relevant, calculated",1099091
+29995,20309,Volkswagen AG,8,Upstream leased assets,"Relevant, calculated",413446
+29996,20309,Volkswagen AG,9,Downstream transportation and distribution,"Relevant, calculated",0
+29997,20309,Volkswagen AG,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+29998,20309,Volkswagen AG,11,Use of sold products,"Relevant, calculated",287767802
+29999,20309,Volkswagen AG,12,End of life treatment of sold products,"Relevant, calculated",552289
+30000,20309,Volkswagen AG,13,Downstream leased assets,"Relevant, calculated",9162826
+30001,20309,Volkswagen AG,14,Franchises,"Relevant, calculated",3009100
+30002,20309,Volkswagen AG,15,Investments,"Not relevant, explanation provided",Question not applicable
+30003,20309,Volkswagen AG,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+30004,20309,Volkswagen AG,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+30566,20705,"The Williams Companies, Inc.",1,Purchased goods and services,Not evaluated,Question not applicable
+30567,20705,"The Williams Companies, Inc.",2,Capital goods,Not evaluated,Question not applicable
+30568,20705,"The Williams Companies, Inc.",3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, not yet calculated",Question not applicable
+30569,20705,"The Williams Companies, Inc.",4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+30570,20705,"The Williams Companies, Inc.",5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+30571,20705,"The Williams Companies, Inc.",6,Business travel,"Not relevant, calculated",2896
+30572,20705,"The Williams Companies, Inc.",7,Employee commuting,"Not relevant, calculated",26786
+30573,20705,"The Williams Companies, Inc.",8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+30574,20705,"The Williams Companies, Inc.",9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+30575,20705,"The Williams Companies, Inc.",10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+30576,20705,"The Williams Companies, Inc.",11,Use of sold products,"Relevant, calculated",22088300.54
+30577,20705,"The Williams Companies, Inc.",12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+30578,20705,"The Williams Companies, Inc.",13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+30579,20705,"The Williams Companies, Inc.",14,Franchises,"Not relevant, explanation provided",Question not applicable
+30580,20705,"The Williams Companies, Inc.",15,Investments,Not evaluated,Question not applicable
+30581,20705,"The Williams Companies, Inc.",16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+30582,20705,"The Williams Companies, Inc.",17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+31144,20949,YPF SA,1,Purchased goods and services,"Relevant, calculated",1555706
+31145,20949,YPF SA,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+31146,20949,YPF SA,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+31147,20949,YPF SA,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+31148,20949,YPF SA,5,Waste generated in operations,"Not relevant, calculated",1731111
+31149,20949,YPF SA,6,Business travel,"Not relevant, explanation provided",Question not applicable
+31150,20949,YPF SA,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+31151,20949,YPF SA,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+31152,20949,YPF SA,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+31153,20949,YPF SA,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+31154,20949,YPF SA,11,Use of sold products,"Relevant, calculated",65143657
+31155,20949,YPF SA,12,End of life treatment of sold products,"Not relevant, calculated",564838
+31156,20949,YPF SA,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+31157,20949,YPF SA,14,Franchises,"Not relevant, calculated",122613
+31158,20949,YPF SA,15,Investments,"Not relevant, explanation provided",Question not applicable
+31159,20949,YPF SA,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+31160,20949,YPF SA,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+31433,21135,KOÇ HOLDİNG A.Ş.,1,Purchased goods and services,,Question not applicable
+31434,21135,KOÇ HOLDİNG A.Ş.,2,Capital goods,,Question not applicable
+31435,21135,KOÇ HOLDİNG A.Ş.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),,Question not applicable
+31436,21135,KOÇ HOLDİNG A.Ş.,4,Upstream transportation and distribution,,Question not applicable
+31437,21135,KOÇ HOLDİNG A.Ş.,5,Waste generated in operations,,Question not applicable
+31438,21135,KOÇ HOLDİNG A.Ş.,6,Business travel,,Question not applicable
+31439,21135,KOÇ HOLDİNG A.Ş.,7,Employee commuting,,Question not applicable
+31440,21135,KOÇ HOLDİNG A.Ş.,8,Upstream leased assets,,Question not applicable
+31441,21135,KOÇ HOLDİNG A.Ş.,9,Downstream transportation and distribution,,Question not applicable
+31442,21135,KOÇ HOLDİNG A.Ş.,10,Processing of sold products,,Question not applicable
+31443,21135,KOÇ HOLDİNG A.Ş.,11,Use of sold products,,Question not applicable
+31444,21135,KOÇ HOLDİNG A.Ş.,12,End of life treatment of sold products,,Question not applicable
+31445,21135,KOÇ HOLDİNG A.Ş.,13,Downstream leased assets,,Question not applicable
+31446,21135,KOÇ HOLDİNG A.Ş.,14,Franchises,,Question not applicable
+31447,21135,KOÇ HOLDİNG A.Ş.,15,Investments,,Question not applicable
+31448,21135,KOÇ HOLDİNG A.Ş.,16,Other (upstream),,Question not applicable
+31449,21135,KOÇ HOLDİNG A.Ş.,17,Other (downstream),,Question not applicable
+31535,21148,TÜRK HAVA YOLLARI A.O.,1,Purchased goods and services,"Relevant, calculated",161821.77
+31536,21148,TÜRK HAVA YOLLARI A.O.,2,Capital goods,"Relevant, calculated",18654.36
+31537,21148,TÜRK HAVA YOLLARI A.O.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",3764914.26
+31538,21148,TÜRK HAVA YOLLARI A.O.,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+31539,21148,TÜRK HAVA YOLLARI A.O.,5,Waste generated in operations,"Relevant, calculated",48164.83
+31540,21148,TÜRK HAVA YOLLARI A.O.,6,Business travel,"Relevant, calculated",28166.46
+31541,21148,TÜRK HAVA YOLLARI A.O.,7,Employee commuting,"Relevant, calculated",23612.07
+31542,21148,TÜRK HAVA YOLLARI A.O.,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+31543,21148,TÜRK HAVA YOLLARI A.O.,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+31544,21148,TÜRK HAVA YOLLARI A.O.,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+31545,21148,TÜRK HAVA YOLLARI A.O.,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+31546,21148,TÜRK HAVA YOLLARI A.O.,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+31547,21148,TÜRK HAVA YOLLARI A.O.,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+31548,21148,TÜRK HAVA YOLLARI A.O.,14,Franchises,"Not relevant, explanation provided",Question not applicable
+31549,21148,TÜRK HAVA YOLLARI A.O.,15,Investments,"Relevant, calculated",703509.98
+31550,21148,TÜRK HAVA YOLLARI A.O.,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+31551,21148,TÜRK HAVA YOLLARI A.O.,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+32946,21845,San Miguel Corp,1,Purchased goods and services,"Relevant, not yet calculated",Question not applicable
+32947,21845,San Miguel Corp,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+32948,21845,San Miguel Corp,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, not yet calculated",Question not applicable
+32949,21845,San Miguel Corp,4,Upstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+32950,21845,San Miguel Corp,5,Waste generated in operations,"Relevant, not yet calculated",Question not applicable
+32951,21845,San Miguel Corp,6,Business travel,"Relevant, not yet calculated",Question not applicable
+32952,21845,San Miguel Corp,7,Employee commuting,"Relevant, not yet calculated",Question not applicable
+32953,21845,San Miguel Corp,8,Upstream leased assets,"Relevant, not yet calculated",Question not applicable
+32954,21845,San Miguel Corp,9,Downstream transportation and distribution,"Relevant, calculated",
+32955,21845,San Miguel Corp,10,Processing of sold products,"Relevant, not yet calculated",Question not applicable
+32956,21845,San Miguel Corp,11,Use of sold products,"Relevant, not yet calculated",Question not applicable
+32957,21845,San Miguel Corp,12,End of life treatment of sold products,"Relevant, not yet calculated",Question not applicable
+32958,21845,San Miguel Corp,13,Downstream leased assets,"Relevant, not yet calculated",Question not applicable
+32959,21845,San Miguel Corp,14,Franchises,"Relevant, not yet calculated",Question not applicable
+32960,21845,San Miguel Corp,15,Investments,,Question not applicable
+32961,21845,San Miguel Corp,16,Other (upstream),"Relevant, not yet calculated",Question not applicable
+32962,21845,San Miguel Corp,17,Other (downstream),"Relevant, not yet calculated",Question not applicable
+33745,22213,Ryanair Holding PLC,1,Purchased goods and services,"Relevant, calculated",3530
+33746,22213,Ryanair Holding PLC,2,Capital goods,"Relevant, calculated",94461
+33747,22213,Ryanair Holding PLC,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",2953294
+33748,22213,Ryanair Holding PLC,4,Upstream transportation and distribution,"Relevant, calculated",17067
+33749,22213,Ryanair Holding PLC,5,Waste generated in operations,"Relevant, calculated",1073
+33750,22213,Ryanair Holding PLC,6,Business travel,"Relevant, calculated",1625
+33751,22213,Ryanair Holding PLC,7,Employee commuting,"Relevant, calculated",10694
+33752,22213,Ryanair Holding PLC,8,Upstream leased assets,"Relevant, calculated",519
+33753,22213,Ryanair Holding PLC,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+33754,22213,Ryanair Holding PLC,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+33755,22213,Ryanair Holding PLC,11,Use of sold products,"Relevant, calculated",18050
+33756,22213,Ryanair Holding PLC,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+33757,22213,Ryanair Holding PLC,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+33758,22213,Ryanair Holding PLC,14,Franchises,"Not relevant, explanation provided",Question not applicable
+33759,22213,Ryanair Holding PLC,15,Investments,"Not relevant, explanation provided",Question not applicable
+33760,22213,Ryanair Holding PLC,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+33761,22213,Ryanair Holding PLC,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+34340,22341,Ecopetrol S.A.,1,Purchased goods and services,"Relevant, calculated",6949035
+34341,22341,Ecopetrol S.A.,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+34342,22341,Ecopetrol S.A.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, calculated",64372
+34343,22341,Ecopetrol S.A.,4,Upstream transportation and distribution,"Relevant, calculated",277973
+34344,22341,Ecopetrol S.A.,5,Waste generated in operations,"Not relevant, calculated",168710
+34345,22341,Ecopetrol S.A.,6,Business travel,"Relevant, calculated",2556
+34346,22341,Ecopetrol S.A.,7,Employee commuting,"Relevant, calculated",11467
+34347,22341,Ecopetrol S.A.,8,Upstream leased assets,"Not relevant, calculated",285
+34348,22341,Ecopetrol S.A.,9,Downstream transportation and distribution,"Relevant, calculated",905813
+34349,22341,Ecopetrol S.A.,10,Processing of sold products,"Not relevant, calculated",5708354
+34350,22341,Ecopetrol S.A.,11,Use of sold products,"Relevant, calculated",138387014
+34351,22341,Ecopetrol S.A.,12,End of life treatment of sold products,"Not relevant, calculated",119473
+34352,22341,Ecopetrol S.A.,13,Downstream leased assets,"Not relevant, calculated",157
+34353,22341,Ecopetrol S.A.,14,Franchises,"Not relevant, explanation provided",Question not applicable
+34354,22341,Ecopetrol S.A.,15,Investments,"Relevant, calculated",852845
+34355,22341,Ecopetrol S.A.,16,Other (upstream),Not evaluated,Question not applicable
+34356,22341,Ecopetrol S.A.,17,Other (downstream),Not evaluated,Question not applicable
+34663,22460,Hawaiian Holding,1,Purchased goods and services,"Relevant, not yet calculated",Question not applicable
+34664,22460,Hawaiian Holding,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+34665,22460,Hawaiian Holding,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",477118
+34666,22460,Hawaiian Holding,4,Upstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+34667,22460,Hawaiian Holding,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+34668,22460,Hawaiian Holding,6,Business travel,"Relevant, not yet calculated",Question not applicable
+34669,22460,Hawaiian Holding,7,Employee commuting,"Relevant, not yet calculated",Question not applicable
+34670,22460,Hawaiian Holding,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+34671,22460,Hawaiian Holding,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+34672,22460,Hawaiian Holding,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+34673,22460,Hawaiian Holding,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+34674,22460,Hawaiian Holding,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+34675,22460,Hawaiian Holding,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+34676,22460,Hawaiian Holding,14,Franchises,"Not relevant, explanation provided",Question not applicable
+34677,22460,Hawaiian Holding,15,Investments,"Relevant, not yet calculated",Question not applicable
+34678,22460,Hawaiian Holding,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+34679,22460,Hawaiian Holding,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+36244,23132,Equinor,1,Purchased goods and services,"Not relevant, explanation provided",Question not applicable
+36245,23132,Equinor,2,Capital goods,"Relevant, calculated",417000
+36246,23132,Equinor,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",80000
+36247,23132,Equinor,4,Upstream transportation and distribution,"Relevant, calculated",70000
+36248,23132,Equinor,5,Waste generated in operations,"Relevant, calculated",20000
+36249,23132,Equinor,6,Business travel,"Relevant, calculated",60000
+36250,23132,Equinor,7,Employee commuting,"Relevant, calculated",20000
+36251,23132,Equinor,8,Upstream leased assets,Not evaluated,Question not applicable
+36252,23132,Equinor,9,Downstream transportation and distribution,"Relevant, calculated",3800000
+36253,23132,Equinor,10,Processing of sold products,"Relevant, calculated",10500000
+36254,23132,Equinor,11,Use of sold products,"Relevant, calculated",243000000
+36255,23132,Equinor,12,End of life treatment of sold products,"Relevant, calculated",7000000
+36256,23132,Equinor,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+36257,23132,Equinor,14,Franchises,"Not relevant, explanation provided",Question not applicable
+36258,23132,Equinor,15,Investments,"Relevant, calculated",3400000
+36259,23132,Equinor,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+36260,23132,Equinor,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+36329,23144,Norwegian Air Shuttle ASA,1,Purchased goods and services,"Relevant, calculated",3574.5
+36330,23144,Norwegian Air Shuttle ASA,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+36331,23144,Norwegian Air Shuttle ASA,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",365892.9
+36332,23144,Norwegian Air Shuttle ASA,4,Upstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+36333,23144,Norwegian Air Shuttle ASA,5,Waste generated in operations,"Relevant, not yet calculated",Question not applicable
+36334,23144,Norwegian Air Shuttle ASA,6,Business travel,"Relevant, not yet calculated",Question not applicable
+36335,23144,Norwegian Air Shuttle ASA,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+36336,23144,Norwegian Air Shuttle ASA,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+36337,23144,Norwegian Air Shuttle ASA,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+36338,23144,Norwegian Air Shuttle ASA,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+36339,23144,Norwegian Air Shuttle ASA,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+36340,23144,Norwegian Air Shuttle ASA,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+36341,23144,Norwegian Air Shuttle ASA,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+36342,23144,Norwegian Air Shuttle ASA,14,Franchises,"Not relevant, explanation provided",Question not applicable
+36343,23144,Norwegian Air Shuttle ASA,15,Investments,"Not relevant, explanation provided",Question not applicable
+36344,23144,Norwegian Air Shuttle ASA,16,Other (upstream),,Question not applicable
+36345,23144,Norwegian Air Shuttle ASA,17,Other (downstream),,Question not applicable
+38148,29901,"ENEOS Holdings, Inc.",1,Purchased goods and services,"Relevant, calculated",12294337.52
+38149,29901,"ENEOS Holdings, Inc.",2,Capital goods,"Not relevant, explanation provided",Question not applicable
+38150,29901,"ENEOS Holdings, Inc.",3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+38151,29901,"ENEOS Holdings, Inc.",4,Upstream transportation and distribution,"Relevant, calculated",2259499.869
+38152,29901,"ENEOS Holdings, Inc.",5,Waste generated in operations,"Relevant, calculated",64909.632
+38153,29901,"ENEOS Holdings, Inc.",6,Business travel,"Relevant, calculated",4475.219
+38154,29901,"ENEOS Holdings, Inc.",7,Employee commuting,"Relevant, calculated",1064.246
+38155,29901,"ENEOS Holdings, Inc.",8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+38156,29901,"ENEOS Holdings, Inc.",9,Downstream transportation and distribution,"Relevant, calculated",421955
+38157,29901,"ENEOS Holdings, Inc.",10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+38158,29901,"ENEOS Holdings, Inc.",11,Use of sold products,"Relevant, calculated",175688580
+38159,29901,"ENEOS Holdings, Inc.",12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+38160,29901,"ENEOS Holdings, Inc.",13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+38161,29901,"ENEOS Holdings, Inc.",14,Franchises,"Relevant, calculated",300165.5
+38162,29901,"ENEOS Holdings, Inc.",15,Investments,"Not relevant, explanation provided",Question not applicable
+38163,29901,"ENEOS Holdings, Inc.",16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+38164,29901,"ENEOS Holdings, Inc.",17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+39729,31588,"Copa Holdings, S.A.",1,Purchased goods and services,Not evaluated,Question not applicable
+39730,31588,"Copa Holdings, S.A.",2,Capital goods,Not evaluated,Question not applicable
+39731,31588,"Copa Holdings, S.A.",3,Fuel-and-energy-related activities (not included in Scope 1 or 2),Not evaluated,Question not applicable
+39732,31588,"Copa Holdings, S.A.",4,Upstream transportation and distribution,Not evaluated,Question not applicable
+39733,31588,"Copa Holdings, S.A.",5,Waste generated in operations,Not evaluated,Question not applicable
+39734,31588,"Copa Holdings, S.A.",6,Business travel,Not evaluated,Question not applicable
+39735,31588,"Copa Holdings, S.A.",7,Employee commuting,Not evaluated,Question not applicable
+39736,31588,"Copa Holdings, S.A.",8,Upstream leased assets,Not evaluated,Question not applicable
+39737,31588,"Copa Holdings, S.A.",9,Downstream transportation and distribution,Not evaluated,Question not applicable
+39738,31588,"Copa Holdings, S.A.",10,Processing of sold products,Not evaluated,Question not applicable
+39739,31588,"Copa Holdings, S.A.",11,Use of sold products,Not evaluated,Question not applicable
+39740,31588,"Copa Holdings, S.A.",12,End of life treatment of sold products,Not evaluated,Question not applicable
+39741,31588,"Copa Holdings, S.A.",13,Downstream leased assets,Not evaluated,Question not applicable
+39742,31588,"Copa Holdings, S.A.",14,Franchises,Not evaluated,Question not applicable
+39743,31588,"Copa Holdings, S.A.",15,Investments,Not evaluated,Question not applicable
+39744,31588,"Copa Holdings, S.A.",16,Other (upstream),Not evaluated,Question not applicable
+39745,31588,"Copa Holdings, S.A.",17,Other (downstream),Not evaluated,Question not applicable
+44030,36606,Marathon Petroleum,1,Purchased goods and services,"Relevant, calculated",62000000
+44031,36606,Marathon Petroleum,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+44032,36606,Marathon Petroleum,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+44033,36606,Marathon Petroleum,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+44034,36606,Marathon Petroleum,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+44035,36606,Marathon Petroleum,6,Business travel,"Not relevant, explanation provided",Question not applicable
+44036,36606,Marathon Petroleum,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+44037,36606,Marathon Petroleum,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+44038,36606,Marathon Petroleum,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+44039,36606,Marathon Petroleum,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+44040,36606,Marathon Petroleum,11,Use of sold products,"Relevant, calculated",404000000
+44041,36606,Marathon Petroleum,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+44042,36606,Marathon Petroleum,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+44043,36606,Marathon Petroleum,14,Franchises,"Not relevant, explanation provided",Question not applicable
+44044,36606,Marathon Petroleum,15,Investments,"Not relevant, explanation provided",Question not applicable
+44045,36606,Marathon Petroleum,16,Other (upstream),,Question not applicable
+44046,36606,Marathon Petroleum,17,Other (downstream),,Question not applicable
+44200,36707,"International Consolidated Airlines Group, S.A.",1,Purchased goods and services,"Relevant, calculated",268
+44201,36707,"International Consolidated Airlines Group, S.A.",2,Capital goods,"Relevant, calculated",232000
+44202,36707,"International Consolidated Airlines Group, S.A.",3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",4385293
+44203,36707,"International Consolidated Airlines Group, S.A.",4,Upstream transportation and distribution,"Relevant, calculated",3477
+44204,36707,"International Consolidated Airlines Group, S.A.",5,Waste generated in operations,"Relevant, calculated",2790
+44205,36707,"International Consolidated Airlines Group, S.A.",6,Business travel,"Relevant, calculated",3853
+44206,36707,"International Consolidated Airlines Group, S.A.",7,Employee commuting,"Relevant, calculated",7294
+44207,36707,"International Consolidated Airlines Group, S.A.",8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+44208,36707,"International Consolidated Airlines Group, S.A.",9,Downstream transportation and distribution,"Relevant, calculated",165037
+44209,36707,"International Consolidated Airlines Group, S.A.",10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+44210,36707,"International Consolidated Airlines Group, S.A.",11,Use of sold products,"Relevant, calculated",152268
+44211,36707,"International Consolidated Airlines Group, S.A.",12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+44212,36707,"International Consolidated Airlines Group, S.A.",13,Downstream leased assets,"Relevant, calculated",52860
+44213,36707,"International Consolidated Airlines Group, S.A.",14,Franchises,"Relevant, calculated",475576
+44214,36707,"International Consolidated Airlines Group, S.A.",15,Investments,"Not relevant, explanation provided",Question not applicable
+44215,36707,"International Consolidated Airlines Group, S.A.",16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+44216,36707,"International Consolidated Airlines Group, S.A.",17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+44608,36979,SK Innovation Co Ltd,1,Purchased goods and services,"Relevant, calculated",20050022
+44609,36979,SK Innovation Co Ltd,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+44610,36979,SK Innovation Co Ltd,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",484765
+44611,36979,SK Innovation Co Ltd,4,Upstream transportation and distribution,"Relevant, calculated",1079656
+44612,36979,SK Innovation Co Ltd,5,Waste generated in operations,"Relevant, calculated",41705
+44613,36979,SK Innovation Co Ltd,6,Business travel,"Relevant, calculated",3921
+44614,36979,SK Innovation Co Ltd,7,Employee commuting,"Relevant, calculated",19363
+44615,36979,SK Innovation Co Ltd,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+44616,36979,SK Innovation Co Ltd,9,Downstream transportation and distribution,"Relevant, calculated",470049
+44617,36979,SK Innovation Co Ltd,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+44618,36979,SK Innovation Co Ltd,11,Use of sold products,"Relevant, calculated",103239356
+44619,36979,SK Innovation Co Ltd,12,End of life treatment of sold products,"Relevant, calculated",6745847
+44620,36979,SK Innovation Co Ltd,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+44621,36979,SK Innovation Co Ltd,14,Franchises,"Not relevant, explanation provided",Question not applicable
+44622,36979,SK Innovation Co Ltd,15,Investments,"Not relevant, explanation provided",Question not applicable
+44623,36979,SK Innovation Co Ltd,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+44624,36979,SK Innovation Co Ltd,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+49589,44253,Grupo Aeromexico SAB de CV,1,Purchased goods and services,"Not relevant, calculated",213
+49590,44253,Grupo Aeromexico SAB de CV,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+49591,44253,Grupo Aeromexico SAB de CV,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",788748
+49592,44253,Grupo Aeromexico SAB de CV,4,Upstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+49593,44253,Grupo Aeromexico SAB de CV,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+49594,44253,Grupo Aeromexico SAB de CV,6,Business travel,"Relevant, calculated",318
+49595,44253,Grupo Aeromexico SAB de CV,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+49596,44253,Grupo Aeromexico SAB de CV,8,Upstream leased assets,"Not relevant, calculated",5
+49597,44253,Grupo Aeromexico SAB de CV,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+49598,44253,Grupo Aeromexico SAB de CV,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+49599,44253,Grupo Aeromexico SAB de CV,11,Use of sold products,"Relevant, not yet calculated",Question not applicable
+49600,44253,Grupo Aeromexico SAB de CV,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+49601,44253,Grupo Aeromexico SAB de CV,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+49602,44253,Grupo Aeromexico SAB de CV,14,Franchises,"Not relevant, explanation provided",Question not applicable
+49603,44253,Grupo Aeromexico SAB de CV,15,Investments,"Not relevant, explanation provided",Question not applicable
+49604,44253,Grupo Aeromexico SAB de CV,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+49605,44253,Grupo Aeromexico SAB de CV,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+54230,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,1,Purchased goods and services,"Relevant, calculated",90807.16
+54231,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,2,Capital goods,"Relevant, calculated",29700.6
+54232,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",519471.35
+54233,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+54234,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,5,Waste generated in operations,"Not relevant, calculated",67.47
+54235,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,6,Business travel,"Not relevant, explanation provided",Question not applicable
+54236,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,7,Employee commuting,"Relevant, calculated",7443.75
+54237,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+54238,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+54239,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+54240,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+54241,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+54242,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+54243,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,14,Franchises,"Not relevant, explanation provided",Question not applicable
+54244,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,15,Investments,"Not relevant, explanation provided",Question not applicable
+54245,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+54246,49618,PEGASUS HAVA TAŞIMACILIĞI A.Ş.,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+54842,50174,Avianca Group,1,Purchased goods and services,"Relevant, calculated",19614.36
+54843,50174,Avianca Group,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+54844,50174,Avianca Group,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",87401.19
+54845,50174,Avianca Group,4,Upstream transportation and distribution,"Relevant, calculated",572.49
+54846,50174,Avianca Group,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+54847,50174,Avianca Group,6,Business travel,"Relevant, calculated",2135
+54848,50174,Avianca Group,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+54849,50174,Avianca Group,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+54850,50174,Avianca Group,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+54851,50174,Avianca Group,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+54852,50174,Avianca Group,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+54853,50174,Avianca Group,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+54854,50174,Avianca Group,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+54855,50174,Avianca Group,14,Franchises,"Not relevant, explanation provided",Question not applicable
+54856,50174,Avianca Group,15,Investments,"Not relevant, explanation provided",Question not applicable
+54857,50174,Avianca Group,16,Other (upstream),,Question not applicable
+54858,50174,Avianca Group,17,Other (downstream),,Question not applicable
+64940,58656,NFI Group Inc.,1,Purchased goods and services,"Relevant, not yet calculated",Question not applicable
+64941,58656,NFI Group Inc.,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+64942,58656,NFI Group Inc.,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, not yet calculated",Question not applicable
+64943,58656,NFI Group Inc.,4,Upstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+64944,58656,NFI Group Inc.,5,Waste generated in operations,"Relevant, not yet calculated",Question not applicable
+64945,58656,NFI Group Inc.,6,Business travel,"Relevant, not yet calculated",Question not applicable
+64946,58656,NFI Group Inc.,7,Employee commuting,"Relevant, not yet calculated",Question not applicable
+64947,58656,NFI Group Inc.,8,Upstream leased assets,"Relevant, not yet calculated",Question not applicable
+64948,58656,NFI Group Inc.,9,Downstream transportation and distribution,"Relevant, not yet calculated",Question not applicable
+64949,58656,NFI Group Inc.,10,Processing of sold products,"Relevant, not yet calculated",Question not applicable
+64950,58656,NFI Group Inc.,11,Use of sold products,"Relevant, not yet calculated",Question not applicable
+64951,58656,NFI Group Inc.,12,End of life treatment of sold products,"Relevant, not yet calculated",Question not applicable
+64952,58656,NFI Group Inc.,13,Downstream leased assets,"Relevant, not yet calculated",Question not applicable
+64953,58656,NFI Group Inc.,14,Franchises,"Relevant, not yet calculated",Question not applicable
+64954,58656,NFI Group Inc.,15,Investments,"Relevant, not yet calculated",Question not applicable
+64955,58656,NFI Group Inc.,16,Other (upstream),"Relevant, not yet calculated",Question not applicable
+64956,58656,NFI Group Inc.,17,Other (downstream),"Relevant, not yet calculated",Question not applicable
+65059,58720,Wizz Air Holdings,1,Purchased goods and services,"Relevant, calculated",343622.35
+65060,58720,Wizz Air Holdings,2,Capital goods,"Relevant, calculated",2474.2
+65061,58720,Wizz Air Holdings,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",996175.7
+65062,58720,Wizz Air Holdings,4,Upstream transportation and distribution,"Relevant, calculated",6401.01
+65063,58720,Wizz Air Holdings,5,Waste generated in operations,"Relevant, calculated",1346.03
+65064,58720,Wizz Air Holdings,6,Business travel,"Relevant, calculated",20549.92
+65065,58720,Wizz Air Holdings,7,Employee commuting,"Not relevant, calculated",10747.39
+65066,58720,Wizz Air Holdings,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+65067,58720,Wizz Air Holdings,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+65068,58720,Wizz Air Holdings,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+65069,58720,Wizz Air Holdings,11,Use of sold products,"Relevant, calculated",149.06
+65070,58720,Wizz Air Holdings,12,End of life treatment of sold products,"Not relevant, calculated",135.9
+65071,58720,Wizz Air Holdings,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+65072,58720,Wizz Air Holdings,14,Franchises,"Not relevant, explanation provided",Question not applicable
+65073,58720,Wizz Air Holdings,15,Investments,"Not relevant, explanation provided",Question not applicable
+65074,58720,Wizz Air Holdings,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+65075,58720,Wizz Air Holdings,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+65926,59325,Ferrari,1,Purchased goods and services,"Relevant, calculated",303419
+65927,59325,Ferrari,2,Capital goods,"Relevant, calculated",103466
+65928,59325,Ferrari,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",14417
+65929,59325,Ferrari,4,Upstream transportation and distribution,"Relevant, calculated",20314
+65930,59325,Ferrari,5,Waste generated in operations,Not evaluated,Question not applicable
+65931,59325,Ferrari,6,Business travel,"Relevant, calculated",3716
+65932,59325,Ferrari,7,Employee commuting,"Relevant, calculated",5712
+65933,59325,Ferrari,8,Upstream leased assets,Not evaluated,Question not applicable
+65934,59325,Ferrari,9,Downstream transportation and distribution,"Relevant, calculated",12809
+65935,59325,Ferrari,10,Processing of sold products,Not evaluated,Question not applicable
+65936,59325,Ferrari,11,Use of sold products,"Relevant, calculated",227629
+65937,59325,Ferrari,12,End of life treatment of sold products,Not evaluated,Question not applicable
+65938,59325,Ferrari,13,Downstream leased assets,Not evaluated,Question not applicable
+65939,59325,Ferrari,14,Franchises,"Relevant, calculated",50433
+65940,59325,Ferrari,15,Investments,Not evaluated,Question not applicable
+65941,59325,Ferrari,16,Other (upstream),Not evaluated,Question not applicable
+65942,59325,Ferrari,17,Other (downstream),Not evaluated,Question not applicable
+66011,59365,Chorus Aviation,1,Purchased goods and services,"Not relevant, explanation provided",Question not applicable
+66012,59365,Chorus Aviation,2,Capital goods,Not evaluated,Question not applicable
+66013,59365,Chorus Aviation,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),Not evaluated,Question not applicable
+66014,59365,Chorus Aviation,4,Upstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+66015,59365,Chorus Aviation,5,Waste generated in operations,"Relevant, not yet calculated",Question not applicable
+66016,59365,Chorus Aviation,6,Business travel,"Relevant, not yet calculated",Question not applicable
+66017,59365,Chorus Aviation,7,Employee commuting,"Relevant, not yet calculated",Question not applicable
+66018,59365,Chorus Aviation,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+66019,59365,Chorus Aviation,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+66020,59365,Chorus Aviation,10,Processing of sold products,Not evaluated,Question not applicable
+66021,59365,Chorus Aviation,11,Use of sold products,Not evaluated,Question not applicable
+66022,59365,Chorus Aviation,12,End of life treatment of sold products,Not evaluated,Question not applicable
+66023,59365,Chorus Aviation,13,Downstream leased assets,"Relevant, calculated",1369720
+66024,59365,Chorus Aviation,14,Franchises,"Not relevant, explanation provided",Question not applicable
+66025,59365,Chorus Aviation,15,Investments,Not evaluated,Question not applicable
+66026,59365,Chorus Aviation,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+66027,59365,Chorus Aviation,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+74035,73994,Azul Sa,1,Purchased goods and services,"Not relevant, calculated",73.08
+74036,73994,Azul Sa,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+74037,73994,Azul Sa,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Relevant, calculated",782156.16
+74038,73994,Azul Sa,4,Upstream transportation and distribution,"Relevant, calculated",88490.98
+74039,73994,Azul Sa,5,Waste generated in operations,"Relevant, calculated",245.08
+74040,73994,Azul Sa,6,Business travel,"Not relevant, calculated",7.02
+74041,73994,Azul Sa,7,Employee commuting,"Not relevant, explanation provided",Question not applicable
+74042,73994,Azul Sa,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+74043,73994,Azul Sa,9,Downstream transportation and distribution,"Not relevant, explanation provided",Question not applicable
+74044,73994,Azul Sa,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+74045,73994,Azul Sa,11,Use of sold products,"Not relevant, explanation provided",Question not applicable
+74046,73994,Azul Sa,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+74047,73994,Azul Sa,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+74048,73994,Azul Sa,14,Franchises,"Not relevant, calculated",404.19
+74049,73994,Azul Sa,15,Investments,"Not relevant, explanation provided",Question not applicable
+74050,73994,Azul Sa,16,Other (upstream),"Not relevant, explanation provided",Question not applicable
+74051,73994,Azul Sa,17,Other (downstream),"Not relevant, explanation provided",Question not applicable
+89233,839615,KazMunayGas National Company JCS,1,Purchased goods and services,"Relevant, not yet calculated",Question not applicable
+89234,839615,KazMunayGas National Company JCS,2,Capital goods,"Relevant, not yet calculated",Question not applicable
+89235,839615,KazMunayGas National Company JCS,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),Not evaluated,Question not applicable
+89236,839615,KazMunayGas National Company JCS,4,Upstream transportation and distribution,Not evaluated,Question not applicable
+89237,839615,KazMunayGas National Company JCS,5,Waste generated in operations,"Relevant, not yet calculated",Question not applicable
+89238,839615,KazMunayGas National Company JCS,6,Business travel,"Relevant, not yet calculated",Question not applicable
+89239,839615,KazMunayGas National Company JCS,7,Employee commuting,Not evaluated,Question not applicable
+89240,839615,KazMunayGas National Company JCS,8,Upstream leased assets,Not evaluated,Question not applicable
+89241,839615,KazMunayGas National Company JCS,9,Downstream transportation and distribution,Not evaluated,Question not applicable
+89242,839615,KazMunayGas National Company JCS,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+89243,839615,KazMunayGas National Company JCS,11,Use of sold products,"Relevant, calculated",61759971.44
+89244,839615,KazMunayGas National Company JCS,12,End of life treatment of sold products,"Not relevant, explanation provided",Question not applicable
+89245,839615,KazMunayGas National Company JCS,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+89246,839615,KazMunayGas National Company JCS,14,Franchises,"Not relevant, explanation provided",Question not applicable
+89247,839615,KazMunayGas National Company JCS,15,Investments,"Not relevant, explanation provided",Question not applicable
+89248,839615,KazMunayGas National Company JCS,16,Other (upstream),,Question not applicable
+89249,839615,KazMunayGas National Company JCS,17,Other (downstream),,Question not applicable
+90457,840836,Volvo Car Group,1,Purchased goods and services,"Relevant, calculated",12113000
+90458,840836,Volvo Car Group,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+90459,840836,Volvo Car Group,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+90460,840836,Volvo Car Group,4,Upstream transportation and distribution,"Relevant, calculated",770000
+90461,840836,Volvo Car Group,5,Waste generated in operations,"Relevant, calculated",7000
+90462,840836,Volvo Car Group,6,Business travel,"Relevant, calculated",33000
+90463,840836,Volvo Car Group,7,Employee commuting,"Relevant, calculated",70000
+90464,840836,Volvo Car Group,8,Upstream leased assets,"Relevant, calculated",0
+90465,840836,Volvo Car Group,9,Downstream transportation and distribution,"Relevant, calculated",486000
+90466,840836,Volvo Car Group,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+90467,840836,Volvo Car Group,11,Use of sold products,"Relevant, calculated",23541000
+90468,840836,Volvo Car Group,12,End of life treatment of sold products,"Relevant, calculated",402000
+90469,840836,Volvo Car Group,13,Downstream leased assets,"Relevant, calculated",4000
+90470,840836,Volvo Car Group,14,Franchises,"Relevant, calculated",502000
+90471,840836,Volvo Car Group,15,Investments,"Not relevant, explanation provided",Question not applicable
+90472,840836,Volvo Car Group,16,Other (upstream),,Question not applicable
+90473,840836,Volvo Car Group,17,Other (downstream),,Question not applicable
+100810,849766,Petroliam Nasional Berhad (PETRONAS),1,Purchased goods and services,"Relevant, not yet calculated",Question not applicable
+100811,849766,Petroliam Nasional Berhad (PETRONAS),2,Capital goods,Not evaluated,Question not applicable
+100812,849766,Petroliam Nasional Berhad (PETRONAS),3,Fuel-and-energy-related activities (not included in Scope 1 or 2),Not evaluated,Question not applicable
+100813,849766,Petroliam Nasional Berhad (PETRONAS),4,Upstream transportation and distribution,Not evaluated,Question not applicable
+100814,849766,Petroliam Nasional Berhad (PETRONAS),5,Waste generated in operations,Not evaluated,Question not applicable
+100815,849766,Petroliam Nasional Berhad (PETRONAS),6,Business travel,Not evaluated,Question not applicable
+100816,849766,Petroliam Nasional Berhad (PETRONAS),7,Employee commuting,Not evaluated,Question not applicable
+100817,849766,Petroliam Nasional Berhad (PETRONAS),8,Upstream leased assets,Not evaluated,Question not applicable
+100818,849766,Petroliam Nasional Berhad (PETRONAS),9,Downstream transportation and distribution,Not evaluated,Question not applicable
+100819,849766,Petroliam Nasional Berhad (PETRONAS),10,Processing of sold products,"Relevant, not yet calculated",Question not applicable
+100820,849766,Petroliam Nasional Berhad (PETRONAS),11,Use of sold products,"Relevant, calculated",307610000
+100821,849766,Petroliam Nasional Berhad (PETRONAS),12,End of life treatment of sold products,"Relevant, not yet calculated",Question not applicable
+100822,849766,Petroliam Nasional Berhad (PETRONAS),13,Downstream leased assets,"Relevant, not yet calculated",Question not applicable
+100823,849766,Petroliam Nasional Berhad (PETRONAS),14,Franchises,Not evaluated,Question not applicable
+100824,849766,Petroliam Nasional Berhad (PETRONAS),15,Investments,"Relevant, not yet calculated",Question not applicable
+100825,849766,Petroliam Nasional Berhad (PETRONAS),16,Other (upstream),,Question not applicable
+100826,849766,Petroliam Nasional Berhad (PETRONAS),17,Other (downstream),,Question not applicable
+125409,866803,Mercedes-Benz Group AG,1,Purchased goods and services,"Relevant, calculated",21300500
+125410,866803,Mercedes-Benz Group AG,2,Capital goods,"Not relevant, explanation provided",Question not applicable
+125411,866803,Mercedes-Benz Group AG,3,Fuel-and-energy-related activities (not included in Scope 1 or 2),"Not relevant, explanation provided",Question not applicable
+125412,866803,Mercedes-Benz Group AG,4,Upstream transportation and distribution,"Relevant, calculated",1064000
+125413,866803,Mercedes-Benz Group AG,5,Waste generated in operations,"Not relevant, explanation provided",Question not applicable
+125414,866803,Mercedes-Benz Group AG,6,Business travel,"Relevant, calculated",60650
+125415,866803,Mercedes-Benz Group AG,7,Employee commuting,"Relevant, calculated",122800
+125416,866803,Mercedes-Benz Group AG,8,Upstream leased assets,"Not relevant, explanation provided",Question not applicable
+125417,866803,Mercedes-Benz Group AG,9,Downstream transportation and distribution,"Relevant, calculated",1462000
+125418,866803,Mercedes-Benz Group AG,10,Processing of sold products,"Not relevant, explanation provided",Question not applicable
+125419,866803,Mercedes-Benz Group AG,11,Use of sold products,"Relevant, calculated",98000000
+125420,866803,Mercedes-Benz Group AG,12,End of life treatment of sold products,"Relevant, calculated",1016000
+125421,866803,Mercedes-Benz Group AG,13,Downstream leased assets,"Not relevant, explanation provided",Question not applicable
+125422,866803,Mercedes-Benz Group AG,14,Franchises,"Not relevant, explanation provided",Question not applicable
+125423,866803,Mercedes-Benz Group AG,15,Investments,"Not relevant, explanation provided",Question not applicable
+125424,866803,Mercedes-Benz Group AG,16,Other (upstream),,Question not applicable
+125425,866803,Mercedes-Benz Group AG,17,Other (downstream),,Question not applicable
