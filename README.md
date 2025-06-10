@@ -7,3 +7,6 @@ This repository contains the underlying code and data for the paper "The negligi
 Once all packages are installed all python notebooks can be executed. To build project form scratch exectue according to numberint (i.e. "1_...").
 
 The data used in this article and repository includes data points from CDP. The reproduction of any part of the CDP data by any third party is forbidden.
+
+
+The data used in this article and repository includes data points from CDP. The reproduction of any part of the CDP data by any third party is forbidden.
