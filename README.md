@@ -8,5 +8,3 @@ Once all packages are installed all python notebooks can be executed. To build p
 
 The data used in this article and repository includes data points from CDP. The reproduction of any part of the CDP data by any third party is forbidden.
 
-
-The data used in this article and repository includes data points from CDP. The reproduction of any part of the CDP data by any third party is forbidden.
